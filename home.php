@@ -11,16 +11,16 @@ $home = 'home';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
     <link rel="preconnect" href="<?= $cdn_url ?>" crossorigin>
-    <title>Call Girls In Lucknow | Erotic Lucknow Escorts | 8800925952</title>
+    <title>Call Girls In Lucknow | Erotic Lucknow Escorts | 7388211116</title>
     <meta name="description" content="Raman Escort Service in Lucknow provides the best price Call Girls in Lucknow and Genuine Lucknow Escorts in Cash payment 24x7.">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Call Girls In Lucknow | Erotic Lucknow Escorts | 8800925952" />
+    <meta property="og:title" content="Call Girls In Lucknow | Erotic Lucknow Escorts | 7388211116" />
     <meta property="og:description" content="Raman Escort Service in Lucknow provides the best price Call Girls in Lucknow and Genuine Lucknow Escorts in Cash payment 24x7." />
     <meta property="og:url" content="<?= get_url() ?>" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Call Girls In Lucknow | Erotic Lucknow Escorts | 8800925952" />
+    <meta name="twitter:title" content="Call Girls In Lucknow | Erotic Lucknow Escorts | 7388211116" />
     <meta name="twitter:description" content="Raman Escort Service in Lucknow provides the best price Call Girls in Lucknow and Genuine Lucknow Escorts in Cash payment 24x7." />
     <link rel="canonical" href="<?= get_url() ?>" />
     <!-- <link rel="stylesheet" href="./assets/css/header.css" async>
