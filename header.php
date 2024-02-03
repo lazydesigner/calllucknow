@@ -15,6 +15,20 @@
             </div>
         </header>    
         <?php } ?>
+
+<?php if($header == 'varanasi'){ ?>
+    <nav>
+            <ul id="menu">
+                <li id="li" class="active"><a href=""><button>Home</button></a></li>
+                <li id="li"><a href=""><button>Lanka</button></a></li>
+                <li id="li"><a href=""><button>Pandey Pur</button></a></li>
+                <li id="li"><a href=""><button>Chet Ganj</button></a></li>
+                <li id="li"><a href=""><button>Sigra</button></a></li>
+                <li id="li"><a href=""><button>Post Ad</button></a></li>                
+        </nav>
+<?php
+}else{ ?>
+
         <nav>
             <ul id="menu">
                 <li id="li" class="active"><a href="<?=get_url() ?>"><button>Home</button></a></li>
@@ -23,8 +37,7 @@
                 <li id="li"><a href="<?=get_url() ?>call-girls-in-charbagh/"><button>Charbagh</button></a></li>
                 <li id="li"><a href="<?=get_url() ?>call-girls-in-indira-nagar/"><button>Indira Nagar</button></a></li>
                 <li id="li"><a href="<?=get_url() ?>call-girls-in-amausi/"><button>Amausi</button></a></li>
-                <li id="li"><a href="<?=get_url() ?>contact-us/"><button>Post Ad</button></a></li>
-                
-        </nav>
+                <li id="li"><a href="<?=get_url() ?>contact-us/"><button>Post Ad</button></a></li>                
+        </nav><?php } ?>
     </div>
     <!-- <?=get_url() ?>escorts-in-novotel-hotel/ -->

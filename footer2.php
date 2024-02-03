@@ -69,7 +69,7 @@
                 <li><a href="<?= get_url() ?>reviews/">Reviews</a></li>
                 <li><a href="<?= get_url() ?>gallery/">Gallery</a></li>
                 <li><a href="<?= get_url() ?>blog/">Blogs</a></li>
-                <li><a href="<?= get_url() ?>dmca/">DMCA</a></li>
+                <li><a href="<?= get_url() ?>lucknow-call-girls/">Lucknow Call Girl</a></li>
                 <li><a href="<?= get_url() ?>contact-us/">Contact Us</a></li>
                 <li><a href="<?= get_url() ?>disclaimer/">Disclaimer</a></li>
                 <li><a href="<?= get_url() ?>privacy-policy/">Privacy Policy</a></li>

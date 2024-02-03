@@ -1,5 +1,5 @@
 <?php include '../routes.php';
-include '../profiles-card.php'; $ima_ge = 'banner/varanasi';?>
+include '../profiles-card.php'; $ima_ge = 'banner/varanasi';$header = 'varanasi'?>
 <!DOCTYPE html>
 <html lang="en">
 

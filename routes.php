@@ -1,6 +1,7 @@
 <?php
 $home = '';
 $ima_ge = 'lucknow';
+$header = '';
 
 function isLocalhost() {
     // Define an array of common localhost hostnames or IP addresses
