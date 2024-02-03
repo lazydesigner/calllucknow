@@ -55,7 +55,7 @@ if (isLocalhost()) {
     
         $url = $protocol . $host . $basePath;
     
-        return $url.'/';
+        return $url;
     }
 }
 
