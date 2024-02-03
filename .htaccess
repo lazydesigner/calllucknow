@@ -1,0 +1,312 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+Options -Indexes
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+<IfModule mod_deflate.c>
+    # Compress HTML, CSS, JavaScript, Text, XML and fonts
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+    AddOutputFilterByType DEFLATE application/x-font
+    AddOutputFilterByType DEFLATE application/x-font-opentype
+    AddOutputFilterByType DEFLATE application/x-font-otf
+    AddOutputFilterByType DEFLATE application/x-font-truetype
+    AddOutputFilterByType DEFLATE application/x-font-ttf
+    AddOutputFilterByType DEFLATE application/x-javascript
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE font/opentype
+    AddOutputFilterByType DEFLATE font/otf
+    AddOutputFilterByType DEFLATE font/ttf
+    AddOutputFilterByType DEFLATE image/svg+xml
+    AddOutputFilterByType DEFLATE image/x-icon
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/javascript
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/xml
+
+    # Remove browser bugs (only needed for really old browsers)
+    BrowserMatch ^Mozilla/4 gzip-only-text/html
+    BrowserMatch ^Mozilla/4\.0[678] no-gzip
+    BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+    Header append Vary User-Agent
+</IfModule>
+
+#REDIRECT
+
+RewriteRule ^panaji-escorts/?$ https://goa.callgirlsinlucknow.in/panaji-escorts/ [R=301,L]
+RewriteRule ^udaipur-escorts/?$ https://udaipur.callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^category/udaipur-escorts/?$ https://udaipur.callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^hathipol/?$ https://udaipur.callgirlsinlucknow.in/hathipol/ [R=301,L]
+RewriteRule ^sukhadia-circle/?$ https://udaipur.callgirlsinlucknow.in/sukhadia-circle/ [R=301,L]
+RewriteRule ^udaipur-bus-stand/?$ https://udaipur.callgirlsinlucknow.in/udaipur-bus-stand/ [R=301,L]
+RewriteRule ^call-girls-in-jagdish-chowk/?$ https://udaipur.callgirlsinlucknow.in/call-girls-in-jagdish-chowk/ [R=301,L]
+RewriteRule ^jagdish-chowk/?$ https://udaipur.callgirlsinlucknow.in/call-girls-in-jagdish-chowk/ [R=301,L]
+RewriteRule ^ghanta-ghar/?$ https://udaipur.callgirlsinlucknow.in/ghanta-ghar/ [R=301,L]
+RewriteRule ^fateh-sagar/?$ https://udaipur.callgirlsinlucknow.in/fateh-sagar/ [R=301,L]
+RewriteRule ^jawahar-nagar/?$ https://udaipur.callgirlsinlucknow.in/jawahar-nagar/ [R=301,L]
+RewriteRule ^chetak-circle/?$ https://udaipur.callgirlsinlucknow.in/chetak-circle/ [R=301,L]
+RewriteRule ^pratap-nagar/?$ https://udaipur.callgirlsinlucknow.in/pratap-nagar/ [R=301,L]
+RewriteRule ^panchwati/?$ https://udaipur.callgirlsinlucknow.in/panchwati/ [R=301,L]
+RewriteRule ^lal-ghat/?$ https://udaipur.callgirlsinlucknow.in/lal-ghat/ [R=301,L]
+
+
+RewriteRule ^hotels-in-goa-for-adult-service/?$ https://goa.callgirlsinlucknow.in/blog/hotels-in-goa-for-adult-services/ [R=301,L]
+RewriteRule ^escorts-in-nerul/?$ https://goa.callgirlsinlucknow.in/nerul-escorts/ [R=301,L]
+RewriteRule ^siolim-escorts/?$ https://goa.callgirlsinlucknow.in/siolim-escorts/ [R=301,L]
+RewriteRule ^vagator-escorts/?$ https://goa.callgirlsinlucknow.in/vagator-escorts/ [R=301,L]
+RewriteRule ^anjuna-escorts/?$ https://goa.callgirlsinlucknow.in/anjuna-escorts/ [R=301,L]
+RewriteRule ^cuncolim-escorts/?$ https://goa.callgirlsinlucknow.in/cuncolim-escorts/ [R=301,L]
+RewriteRule ^calangute-escort/?$ https://goa.callgirlsinlucknow.in/calangute-escorts/ [R=301,L]
+RewriteRule ^ponda-escorts/?$ https://goa.callgirlsinlucknow.in/ponda-escorts/ [R=301,L]
+RewriteRule ^margoa-escorts/?$ https://goa.callgirlsinlucknow.in/margoa-escorts/ [R=301,L]
+RewriteRule ^quepem-escorts/?$ https://goa.callgirlsinlucknow.in/quepem-escorts/ [R=301,L]
+RewriteRule ^one-night-stand-girls-in-goa/?$ https://goa.callgirlsinlucknow.in/blog/one-night-stand-girls-in-goa/ [R=301,L]
+RewriteRule ^college-call-girls-in-goa/?$ https://goa.callgirlsinlucknow.in/college-escorts/ [R=301,L]
+RewriteRule ^celebrity-escort-service-in-goa/?$ https://goa.callgirlsinlucknow.in/celebrity-escorts/ [R=301,L]
+RewriteRule ^lesbian-dating-escorts-in-goa/?$ https://goa.callgirlsinlucknow.in/lesbian-escorts/ [R=301,L]
+RewriteRule ^russian-escorts-in-goa/?$ https://goa.callgirlsinlucknow.in/russian-escorts/ [R=301,L]
+RewriteRule ^housewife-escorts-in-goa/?$ https://goa.callgirlsinlucknow.in/housewife-escorts/ [R=301,L]
+RewriteRule ^red-light-areas-in-goa/?$ https://goa.callgirlsinlucknow.in/blog/red-light-areas-in-goa/ [R=301,L]
+RewriteRule ^shemale-escorts-in-goa/?$ https://goa.callgirlsinlucknow.in/blog/shemale-escorts/ [R=301,L]
+RewriteRule ^call-girls-in-goa/?$ https://goa.callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^call-girls-in-goa-2/?$ https://goa.callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^lucknow-escort-girls/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^escort-service-in-lucknow-3/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^call-girls-in-lucknow-4/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^lucknow-best-escort/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^assets/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^independent-call-girls-lucknow-2/?$ https://callgirlsinlucknow.in/about-us/ [R=301,L]
+RewriteRule ^call-girls-in-golf-city-lucknow/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^sizzling-model-call-girls-in-lucknow/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^modeling/?$ https://www.callgirlsinlucknow.in/massage-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^top-porn-tube-sites/?$ https://www.callgirlsinlucknow.in/lucknow-porn/ [R=301,L]
+RewriteRule ^dating-escorts/?$ https://www.callgirlsinlucknow.in/dating-escorts/ [R=301,L]
+RewriteRule ^escorts-in-novotel-hotel/?$ https://www.callgirlsinlucknow.in/escorts-near-novotel-hotel/ [R=301,L]
+RewriteRule ^vip-call-girls-lucknow-escorts-girls-lucknow-escort-in-lucknow/?$ https://www.callgirlsinlucknow.in/vip-escorts/ [R=301,L]
+
+
+RewriteRule ^genuine-russian-escorts-lucknow/?$ https://callgirlsinlucknow.in/russian-escorts-lucknow/ [R=301,L]
+RewriteRule ^russian-escorts-in-lucknow/?$ https://callgirlsinlucknow.in/russian-escorts-lucknow/ [R=301,L]
+RewriteRule ^lucknow-escorts/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^call-girls-in-transport-nagar-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-transport-nagar/ [R=301,L]
+RewriteRule ^call-girls-in-sushani-golf-city-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-sushani-golf-city/ [R=301,L]
+RewriteRule ^call-girls-in-civil-lines-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-civil-lines/ [R=301,L]
+RewriteRule ^call-girls-in-charbagh-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-charbagh/ [R=301,L]
+RewriteRule ^call-girls-in-telibagh-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-telibagh/ [R=301,L]
+RewriteRule ^call-girls-in-hazrarganj-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-hazrarganj/ [R=301,L]
+RewriteRule ^call-girls-in-mahanagar-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-mahanagar/ [R=301,L]
+RewriteRule ^call-girls-in-nirala-nagar-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-nirala-nagar/ [R=301,L]
+RewriteRule ^call-girls-in-viraj-khand-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-viraj-khand/ [R=301,L]
+RewriteRule ^call-girls-in-amausi-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-amausi/ [R=301,L]
+RewriteRule ^call-girls-in-aminabad-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-aminabad/ [R=301,L]
+RewriteRule ^call-girls-in-kakori-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-kakori/ [R=301,L]
+RewriteRule ^call-girls-in-balaganj-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-balaganj/ [R=301,L]
+RewriteRule ^call-girls-in-vibhuti-khand-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-vibhuti-khand/ [R=301,L]
+RewriteRule ^call-girls-in-chinhat-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-chinhat/ [R=301,L]
+RewriteRule ^call-girls-in-chowk-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-chowk/ [R=301,L]
+RewriteRule ^call-girls-in-indira-nagar-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-indira-nagar/ [R=301,L]
+RewriteRule ^call-girls-in-gomti-nagar-lucknow/?$ https://callgirlsinlucknow.in/call-girls-in-gomti-nagar/ [R=301,L]
+RewriteRule ^body-massage-escorts-girls-in-lucknow/?$ https://callgirlsinlucknow.in/massage-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^house-wife-lucknow/?$ https://callgirlsinlucknow.in/housewife-escorts/ [R=301,L]
+
+
+
+RewriteRule ^tag/anal-sex-call-girls-lucknow/?$ https://callgirlsinlucknow.in/anal-escorts-lucknow/ [R=301,L]
+RewriteRule ^tag/alambagh-call-girls/?$ https://callgirlsinlucknow.in/call-girls-in-alambagh/ [R=301,L]
+RewriteRule ^tag/body-massage/?$ https://callgirlsinlucknow.in/massage-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/bold/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/call/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/call-girls/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/call-girls-in-siolim/?$ https://goa.callgirlsinlucknow.in/siolim-escorts/ [R=301,L]
+RewriteRule ^tag/escorts-in-siolim/?$ https://goa.callgirlsinlucknow.in/siolim-escorts/ [R=301,L]
+RewriteRule ^tag/escorts-in-siolim-call-girls-in-siolim-call-girls-in-siolim-call-girls-in-siolim-call-girls-in-siolim-call-girls-in-siolim-2/?$ https://goa.callgirlsinlucknow.in/siolim-escorts/ [R=301,L]
+RewriteRule ^tag/escorts-in-siolim-call-girls-in-siolim-call-girls-in-siolim-call-girls-in-siolim-call-girls-in-siolim-call-girls-in-siolim/?$ https://goa.callgirlsinlucknow.in/siolim-escorts/ [R=301,L]
+RewriteRule ^tag/call-girl-in-lucknow/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/call-girl-lucknow/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/call-girls-for-dating-in-lucknow/?$ https://callgirlsinlucknow.in/dating-escorts/ [R=301,L]
+RewriteRule ^tag/call-girls-in-lucknow/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/call-girls-lucknow/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/call-girls-model-in-lucknow/?$ https://callgirlsinlucknow.in/model-escorts/ [R=301,L]
+RewriteRule ^tag/call-girls-number-in-justdial-lucknow/?$ https://callgirlsinlucknow.in/justdial-escorts/ [R=301,L]
+RewriteRule ^tag/call-girls-phone-number-lucknow/?$ https://callgirlsinlucknow.in/blog/girls-phone-number/ [R=301,L]
+RewriteRule ^tag/collage-call-girls/?$ https://callgirlsinlucknow.in/college-call-girls/ [R=301,L]
+RewriteRule ^tag/college-girls-escorts-in-lucknow/?$ https://callgirlsinlucknow.in/college-call-girls/ [R=301,L]
+RewriteRule ^tag/escort-service/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^tag/escort-service-in-lucknow/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^tag/escort-service-lucknow/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^tag/escorts-service-in-lucknow/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^tag/escorts-service-lucknow/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^tag/female-call-girls-lucknow/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/female-companion/?$ https://callgirlsinlucknow.in/independent-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/female-escorts-in-lucknow/?$ https://callgirlsinlucknow.in/independent-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/female-to-male-escort-in-lucknow/?$ https://callgirlsinlucknow.in/independent-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/female-to-male-escort-lucknow/?$ https://callgirlsinlucknow.in/independent-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/female-to-male-escorts-lucknow/?$ https://callgirlsinlucknow.in/independent-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/free-dating/?$ https://callgirlsinlucknow.in/dating-escorts/ [R=301,L]
+RewriteRule ^tag/girls-phone-number/?$ https://callgirlsinlucknow.in/girls-phone-number/ [R=301,L]
+RewriteRule ^tag/girls-top/?$ https://callgirlsinlucknow.in/girls-phone-number/ [R=301,L]
+RewriteRule ^tag/hot-model/?$ https://callgirlsinlucknow.in/model-escorts/ [R=301,L]
+RewriteRule ^tag/house-wife-escorts/?$ https://callgirlsinlucknow.in/housewife-escorts/ [R=301,L]
+RewriteRule ^tag/housewife-escorts-in-lucknow/?$ https://callgirlsinlucknow.in/housewife-escorts/ [R=301,L]
+RewriteRule ^tag/independent-call-girls-lucknow/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/lucknow-call-girls/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/lucknow-escort-service/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^tag/lucknow-girls/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^tag/model-call-girls-lucknow/?$ https://callgirlsinlucknow.in/model-escorts/ [R=301,L]
+RewriteRule ^tag/modeling/?$ https://callgirlsinlucknow.in/model-escorts/ [R=301,L]
+RewriteRule ^tag/need-service-in-lucknow/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^tag/pgi-call-girls-lucknow/?$ https://callgirlsinlucknow.in/pgi-escorts/ [R=301,L]
+RewriteRule ^tag/porn/?$ https://callgirlsinlucknow.in/blog/indian-pornstar [R=301,L]
+RewriteRule ^tag/russian-escort-in-lucknow/?$ https://callgirlsinlucknow.in/russian-escorts-lucknow/ [R=301,L]
+RewriteRule ^tag/russian-escorts-in-lucknow/?$ https://callgirlsinlucknow.in/russian-escorts-lucknow/ [R=301,L]
+RewriteRule ^russian-girls-lucknow/?$ https://callgirlsinlucknow.in/russian-escorts-lucknow/ [R=301,L]
+RewriteRule ^tag/spa-call-girls-lucknow/?$ https://callgirlsinlucknow.in/massage-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/vip-call-gils-lucknow/?$ https://callgirlsinlucknow.in/vip-escorts/ [R=301,L]
+RewriteRule ^tag/vip-call-girls-mobile-number-in-lucknow/?$ https://callgirlsinlucknow.in/vip-escorts/ [R=301,L]
+RewriteRule ^tag/vip-model-girls-in-lucknow/?$ https://callgirlsinlucknow.in/vip-escorts/ [R=301,L]
+RewriteRule ^tag/vip-road-call-girls-lucknow/?$ https://callgirlsinlucknow.in/vip-escorts/ [R=301,L]
+RewriteRule ^tag/women-looking-for-men-in-lucknow/?$ https://callgirlsinlucknow.in/high-class-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/women-looking-men/?$ https://callgirlsinlucknow.in/high-class-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^tag/figure/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
+RewriteRule ^tag/females/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
+RewriteRule ^tag/hot/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
+RewriteRule ^tag/men-looking-women/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
+RewriteRule ^tag/male-to-female-escorts-in-lucknow/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
+RewriteRule ^tag/satisfies/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
+RewriteRule ^tag/train/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
+
+
+
+
+RewriteRule ^category/blogs/?$ https://callgirlsinlucknow.in/blog/ [R=301,L]
+RewriteRule ^category/body-massage/?$ https://callgirlsinlucknow.in/massage-escorts-in-lucknow/ [R=301,L]
+RewriteRule ^category/call-girls-in-goa/?$ https://goa.callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^category/call-girls/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^category/call-girls-in-lucknow/?$ https://callgirlsinlucknow.in/lucknow-call-girls/ [R=301,L]
+RewriteRule ^category/escort-service/?$ https://callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^category/free-dating/?$ https://callgirlsinlucknow.in/dating-escorts/ [R=301,L]
+RewriteRule ^category/hotels/?$ https://callgirlsinlucknow.in/escorts-near-radisson-hotel/ [R=301,L]
+RewriteRule ^category/men-looking-women/?$ https://callgirlsinlucknow.in/gallery/ [R=301,L]
+RewriteRule ^category/escort-profiles/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
+RewriteRule ^category/udaipur-escorts/?$ https://udaipur.callgirlsinlucknow.in/ [R=301,L]
+RewriteRule ^category/women-looking-men/?$ https://callgirlsinlucknow.in/gallery/ [R=301,L]
+
+
+
+#REDIRECT  ABOVE
+ReWriteRule ^$ home.php [NC,L]
+
+
+#CITIS
+
+ReWriteRule ^escort-service-in-dehradun([/]?)$ cities/escort-service-in-dehradun.php [NC,L]
+ReWriteRule ^call-girls-in-mussoorie([/]?)$ cities/call-girls-in-mussoorie.php [NC,L]
+ReWriteRule ^call-girls-in-jaipur([/]?)$ cities/call-girls-in-jaipur.php [NC,L]
+ReWriteRule ^call-girls-in-varanasi([/]?)$ cities/call-girls-in-varanasi.php [NC,L]
+ReWriteRule ^call-girls-in-rishikesh([/]?)$ cities/call-girls-in-rishikesh.php [NC,L]
+ReWriteRule ^indore-escort-service([/]?)$ cities/indore-escort-service.php [NC,L]
+ReWriteRule ^manali-escorts([/]?)$ cities/manali-escorts.php [NC,L]
+ReWriteRule ^escort-service-in-gurgaon([/]?)$ cities/escort-service-in-gurgaon.php [NC,L]
+ReWriteRule ^call-girls-in-agra([/]?)$ cities/call-girls-in-agra.php [NC,L]
+
+
+ReWriteRule ^blog/christmas-offer-on-lucknow-escorts-2021([/]?)$ blog/christmas-offer-on-lucknow-escorts-2021.php [NC,L]
+ReWriteRule ^blog/call-girl-lucknow-sex-story([/]?)$ blog/call-girl-lucknow-sex-story.php [NC,L]
+ReWriteRule ^blog/girls-phone-number([/]?)$ blog/girls-phone-number.php [NC,L]
+ReWriteRule ^blog/need-money([/]?)$ blog/need-money.php [NC,L]
+ReWriteRule ^blog/red-light-areas-in-lucknow([/]?)$ blog/red-light-areas-in-lucknow.php [NC,L]
+ReWriteRule ^blog/indian-pornstar([/]?)$ blog/indian-pornstar.php [NC,L]
+
+
+
+
+#HOTELS
+ReWriteRule ^escorts-near-radisson-hotel([/]?)$ hotels/escorts-near-radisson-hotel.php [NC,L]
+ReWriteRule ^escorts-near-clarks-avadh([/]?)$ hotels/escorts-near-clarks-awadh.php [NC,L]
+ReWriteRule ^escorts-near-cygnett-hotel([/]?)$ hotels/escorts-near-cygnett-hotel.php [NC,L]
+ReWriteRule ^escorts-near-fairfield-by-marriott([/]?)$ hotels/escorts-near-fairfield-by-marriott.php [NC,L]
+ReWriteRule ^escorts-near-hyatt-regency-hotel([/]?)$ hotels/escorts-near-hyatt-regency-hotel.php [NC,L]
+ReWriteRule ^escorts-near-lebua-hotel([/]?)$ hotels/escorts-near-lebua-hotel.php [NC,L]
+ReWriteRule ^escorts-near-novotel-hotel([/]?)$ hotels/escorts-near-novotel-hotel.php [NC,L]
+ReWriteRule ^escorts-near-ramada-hotel([/]?)$ hotels/escorts-near-ramada-hotel.php [NC,L]
+ReWriteRule ^escorts-near-comfort-inn([/]?)$ hotels/escorts-near-comfort-inn.php [NC,L]
+ReWriteRule ^lucknow-call-girls([/]?)$ call-girls-in-lucknow.php [NC,L]
+
+ReWriteRule ^call-girls-in-([0-9A-Za-z\-]+)([/]?)$ pages/index_.php?area=$1 [NC,L]
+
+ReWriteRule ^profiles([/]?)$ profile/profile_index.php [NC,L]
+ReWriteRule ^gallery([/]?)$ gallery.php [NC,L]
+ReWriteRule ^price-list([/]?)$ price-list.php [NC,L]
+ReWriteRule ^contact-us([/]?)$ contact-us.php [NC,L]
+ReWriteRule ^about-us([/]?)$ about-us.php [NC,L]
+ReWriteRule ^reviews([/]?)$ reviews.php [NC,L]
+ReWriteRule ^privacy-policy([/]?)$ privacy-policy.php [NC,L]
+ReWriteRule ^disclaimer([/]?)$ disclaimer.php [NC,L]
+ReWriteRule ^terms-and-conditions([/]?)$ terms-and-conditions.php [NC,L]
+ReWriteRule ^dmca([/]?)$ dmca.php [NC,L]
+ReWriteRule ^pgi([/]?)$ pgi.php [NC,L]
+ReWriteRule ^blog([/]?)$ blog.php [NC,L]
+ReWriteRule ^bbd-college([/]?)$ bbd-college.php [NC,L]
+
+
+#PROFILES
+ReWriteRule ^sabina([/]?)$ profile/sabina.php [NC,L]
+ReWriteRule ^anna-shayk([/]?)$ profile/anna-shayk.php [NC,L]
+ReWriteRule ^palka-chaudary([/]?)$ profile/palka-chaudary.php [NC,L]
+ReWriteRule ^neha-thakur([/]?)$ profile/neha-thakur.php [NC,L]
+ReWriteRule ^meena-kumari([/]?)$ profile/meena-kumari.php [NC,L]
+
+#category
+ReWriteRule ^a2z-call-girls-lucknow([/]?)$ category/a2z-call-girls-lucknow.php
+ReWriteRule ^air-hostes-lucknow([/]?)$ category/air-hostes-lucknow.php
+ReWriteRule ^area-of-escorts-girls-lucknow([/]?)$ category/area-of-escorts-girls-lucknow.php
+ReWriteRule ^russian-escorts-lucknow([/]?)$ category/russian-escorts-lucknow.php
+ReWriteRule ^massage-escorts-in-lucknow([/]?)$ category/massage-escorts-in-lucknow.php
+ReWriteRule ^female-escorts-service-in-lucknow([/]?)$ category/female-escorts-service-in-lucknow.php
+ReWriteRule ^vip-escorts([/]?)$ category/vip-call-girls-lucknow-escorts-girls-lucknow-escort-in-lucknow.php
+ReWriteRule ^cheap-rate-call-girls-lucknow([/]?)$ category/cheap-rate-call-girls-lucknow.php
+ReWriteRule ^high-class-escorts-in-lucknow([/]?)$ category/high-class-escorts-of-lucknow.php
+ReWriteRule ^independent-escorts-in-lucknow([/]?)$ category/independent-escorts-in-lucknow.php
+ReWriteRule ^dating-escorts([/]?)$ category/dating-in-lucknow.php
+ReWriteRule ^college-call-girls([/]?)$ category/college-call-girls.php
+ReWriteRule ^punjabi-bhabhi-lucknow([/]?)$ category/punjabi-bhabhi-lucknow.php
+ReWriteRule ^big-boobs([/]?)$ category/big-boobs.php
+ReWriteRule ^anal-escorts-lucknow([/]?)$ category/anal-sex-call-girls-lucknow.php
+
+
+#OTHER
+ReWriteRule ^call-girls-services-in-lucknow([/]?)$ other/call-girls-services-in-lucknow.php [NC,L]
+ReWriteRule ^girls-lucknow([/]?)$ other/girls-lucknow.php [NC,L]
+ReWriteRule ^call-girls-service-in-lucknow([/]?)$ other/call-girls-service-in-lucknow.php [NC,L]
+ReWriteRule ^pinky-mishra-call-girl([/]?)$ other/pinky-mishra-call-girl.php [NC,L]
+ReWriteRule ^escort-girls-in-lucknow([/]?)$ other/escort-girls-in-lucknow.php [NC,L]
+ReWriteRule ^savita-bhabhi([/]?)$ other/savita-bhabhi.php [NC,L]
+ReWriteRule ^lucknow-porn([/]?)$ other/lucknow-porn.php [NC,L]
+ReWriteRule ^lucknow-escort-agency([/]?)$ other/lucknow-escort-agency.php [NC,L]
+ReWriteRule ^lucknow-escort-services([/]?)$ other/lucknow-escort-services.php [NC,L]
+
+ReWriteRule ^book-online-escorts([/]?)$ other/book-online-escorts.php [NC,L]
+ReWriteRule ^female-escorts-service-lucknow([/]?)$ other/female-escorts-service-lucknow.php [NC,L]
+ReWriteRule ^escorts-in-lucknow([/]?)$ other/escorts-in-lucknow.php [NC,L]
+ReWriteRule ^model-girls-lucknow([/]?)$ other/model-girls-lucknow.php [NC,L]
+ReWriteRule ^housewife-escorts([/]?)$ other/house-wife-lucknow.php [NC,L]
+ReWriteRule ^porn-stars([/]?)$ other/porn-stars.php [NC,L]
+ReWriteRule ^independent-call-girls-lucknow([/]?)$ other/independent-call-girls-lucknow.php [NC,L]
+ReWriteRule ^model-escorts([/]?)$ other/model-escorts.php [NC,L]
+ReWriteRule ^lucknow-escorts-service([/]?)$ other/lucknow-escorts-service.php [NC,L]
+ReWriteRule ^lucknow-girls([/]?)$ other/lucknow-girls.php [NC,L]
+
+ReWriteRule ^git/reop/autodeployment([/]?)$ assets/images/autodeployment.php [NC,L]
+
+#TAGS
+
+ReWriteRule ^tag/bbd-call-girls-lucknow([/]?)$ tags/bbd-call-girls-lucknow.php
+ReWriteRule ^tag/best-price-call-girls([/]?)$ tags/best-price-call-girls.php
+
+
+
+
