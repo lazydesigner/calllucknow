@@ -43,7 +43,7 @@ $ima_ge = 'banner/agra';
     <?php include '../header.php' ?>
     <div class="content-container">
         <div class="page-container">
-            <div class="main-content">
+            <div class="main-content" style="width: 100%;">
                 <h1 class="main-heading">Follow the glamorous guideline to hire call girls in Agra at the 5-star hotel</h1>
                 <h2 class="second-heading"><strong>Move on with decent Call Girls in Agra to add fun and meaning.</strong></h2>
 
@@ -142,9 +142,7 @@ $ima_ge = 'banner/agra';
 
 
 
-            </div>
-            <div class="side-content">
-                <?php include '../side-page-content.php'; ?>
+            
             </div>
         </div>
 
