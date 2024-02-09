@@ -96,7 +96,7 @@ $home = 'home';
             height: 400px;
         }
 
-        .image-h img  {
+        .image-h img {
             width: 100%;
             height: 100%;
             /* object-fit: contain; */
@@ -129,7 +129,6 @@ $home = 'home';
             width: auto;
             height: 100%;
             line-height: 50px;
-            padding: 0 1%;
             cursor: pointer;
             position: relative;
         }
@@ -277,7 +276,7 @@ $home = 'home';
             justify-content: space-between;
         }
 
-        .category-img  {
+        .category-img {
             width: 30%;
             height: 150px;
             background-color: lightgrey;
@@ -365,7 +364,7 @@ $home = 'home';
             transform: rotateX(180deg) rotate(-90deg);
         }
 
-        .long-profile-img  {
+        .long-profile-img {
             width: 17.5%;
             height: 220px;
             background-color: lightgrey;
@@ -441,14 +440,14 @@ $home = 'home';
                 width: 98%;
             }
 
-            .category-img  {
+            .category-img {
                 width: 40%;
                 height: auto;
                 background: 0;
                 overflow: hidden;
             }
 
-            .category-img  img  {
+            .category-img img {
                 width: 100%;
                 object-fit: cover;
             }
@@ -458,7 +457,7 @@ $home = 'home';
                 height: auto;
             }
 
-            .long-profile-card .long-profile-img  {
+            .long-profile-card .long-profile-img {
                 width: 30%;
                 height: auto;
             }
@@ -482,13 +481,13 @@ $home = 'home';
                 flex: 100%;
             }
 
-            .category-img  {
+            .category-img {
                 width: 40%;
                 height: 170px;
                 overflow: hidden;
             }
 
-            .category-img  img  {
+            .category-img img {
                 width: 100%;
 
             }
@@ -498,7 +497,7 @@ $home = 'home';
                 height: 170px;
             }
 
-            .long-profile-card .long-profile-img  {
+            .long-profile-card .long-profile-img {
                 width: 40%;
                 height: auto;
             }
@@ -530,7 +529,7 @@ $home = 'home';
         }
 
         @media screen and (max-width:500px) {
-            .category-img  {
+            .category-img {
                 width: 60%;
                 height: 140px
             }
@@ -539,7 +538,7 @@ $home = 'home';
                 display: none;
             }
 
-            .category-img  img  {
+            .category-img img {
                 width: 100%;
                 height: 100%;
             }
@@ -559,7 +558,7 @@ $home = 'home';
                 flex-wrap: wrap;
             }
 
-            .long-profile-card .long-profile-img  {
+            .long-profile-card .long-profile-img {
                 width: 100%;
             }
 
@@ -593,12 +592,12 @@ $home = 'home';
                 flex-direction: column;
             }
 
-            .category-img  {
+            .category-img {
                 width: 100%;
                 height: 165px;
             }
 
-            .category-img  img  {
+            .category-img img {
                 width: 100%;
                 height: 100%;
                 object-fit: cover;
@@ -647,12 +646,12 @@ $home = 'home';
             transform: scale(1.01);
         }
 
-        .profile-card-img  {
+        .profile-card-img {
             width: 100%;
             aspect-ratio: 1/1;
         }
 
-        .profile-card-img  img  {
+        .profile-card-img img {
             width: 100%;
             height: 100%;
         }
@@ -781,7 +780,7 @@ $home = 'home';
             box-sizing: border-box;
         }
 
-        .areas-container img  {
+        .areas-container img {
             width: 100%;
             height: 100%;
             object-fit: cover;
@@ -945,13 +944,15 @@ $home = 'home';
 
         .footer-other-location-row {
             width: 100%;
-            display: flex;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
+            grid-template-rows: auto;
             justify-content: center;
             align-items: center;
-            flex-wrap: wrap;
-            margin-bottom: 10;
-            gap: 2%;
+            margin-bottom: 10px;
         }
+
+
 
         .cat-btn {
             display: inline-block;
@@ -1040,7 +1041,7 @@ $home = 'home';
             flex: 1 0 32%;
         }
 
-        .full-flex-image img  {
+        .full-flex-image img {
             width: 100%;
             height: 100%;
 
@@ -1076,6 +1077,15 @@ $home = 'home';
         }
 
         @media screen and (max-width:700px) {
+            .footer-other-location-row {
+                width: 100%;
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(32%, 1fr));
+            }
+
+            .footer-other-location {
+                padding: 1%;
+            }
             .list-of-hotels {
                 border-radius: 0;
             }
@@ -1122,13 +1132,14 @@ $home = 'home';
         }
 
         @media screen and (max-width:500px) {
-            
-        .full-flex-image {
-            margin: 2% 0;
-            width: 100%;
-            height: auto;
-            flex: 1 0 50%;
-        }
+
+            .full-flex-image {
+                margin: 2% 0;
+                width: 100%;
+                height: auto;
+                flex: 1 0 50%;
+            }
+
             .cat-btn {
                 margin: 2% 0;
             }
@@ -1194,6 +1205,16 @@ $home = 'home';
                 left: 0;
             }
 
+            .footer-other-location-row {
+                width: 100%;
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(50%, 1fr));
+            }
+
+            .footer-other-location {
+                padding: 1%;
+            }
+
         }
 
         @media screen and (max-width:410px) {
@@ -1216,7 +1237,7 @@ $home = 'home';
     <?php include './header.php'; ?>
     <div class="content-container">
         <div class="container">
-            <h1 class="main-heading">Escort service in Lucknow |One Night Stand With Lucknow Escorts</h1>
+            <h1 class="main-heading">Escort service in Lucknow | One Night Stand With Lucknow Escorts</h1>
 
             <h2 class="second-heading"><strong>Hire a Delightful Company of our High-profile Call Girls in Lucknow</strong></h2>
 
@@ -1279,8 +1300,6 @@ $home = 'home';
                 <div class="full-flex-image"><img loading="lazy" alt="escort service in Lucknow" src="<?= get_url() ?>wp-content/uploads/2021/05/nikita-Chawla-Lucknow-punjabi-escort.jpg" width="100%" height="100%" /></p>
                 </div>
             </div>
-
-            <p>Nikita</p>
 
             <h3><strong>Do not miss the natural beauty of our Lucknow escorts.</strong></h3>
 
@@ -1577,7 +1596,6 @@ $home = 'home';
             <p>As per the COVID update, we try to maintain hygiene and cleanliness in our agency. At present, we are not forcing masks and sanitization until there is a new government update. But we request that our customers take care of themselves.</p>
 
         </div>
-    </div>
     <?php include './footer.php' ?>
 
 

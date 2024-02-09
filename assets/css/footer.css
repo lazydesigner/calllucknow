@@ -223,7 +223,7 @@ footer .footer-col {
 }
 
 footer .footer-img-div {
-    width: 60%;
+    width: 40%;
     margin: 7% auto 0 auto;
 
 }
@@ -446,6 +446,12 @@ footer ul li a:hover {
 
 
 @media screen and (max-width:500px) {
+    
+    .footer-other-location-row {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(50%, 1fr));}
+        .footer-other-location{padding: 1%;}
     .cat-btn{margin: 2% 0;}
 
     .list-of-hotels {

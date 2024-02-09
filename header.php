@@ -10,7 +10,7 @@
             <div class="header-image">
                
                 <div>
-                    <strong>Call Girls In Lucknow</strong><br><small>Escort Service in Lucknow</small>
+                    <strong>Call Girls In Lucknow</strong><br><p style="padding: 0;margin:0;font-size:1.1rem">Escort Service in Lucknow</p>
                 </div>
             </div>
         </header>    
