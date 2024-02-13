@@ -957,7 +957,7 @@ $home = 'home';
         .cat-btn {
             display: inline-block;
             text-align: center;
-            width: auto;
+            width: 100%;
             padding: 0 3%;
             margin: 5% 0;
             line-height: 40px;
@@ -1317,7 +1317,7 @@ $home = 'home';
 
             <h3><strong>The Wildest Category of Lucknow Escorts for Ultimate Pleasure:</strong></h3>
 
-            <p>Lucknow call girls are interested in happy, familiar, and competent customers. The spa center has no limitations. Every client will be content, and we can assure you of physical pleasure and excitement from our call girls. Our call girls are full of positivity, and they can pamper your mind. Our call girls have incredible stamina for delivering high performance. So, call us right now. Our contact numbers are given in the contact section. If you are looking for matchless erotic pleasure and are missing the killer smile of young females who have high energy and are irresistible, then book a call girl from our agency.</p>
+            <p><a href="<?= get_url() ?>lucknow-call-girls/">Lucknow call girls</a> are interested in happy, familiar, and competent customers. The spa center has no limitations. Every client will be content, and we can assure you of physical pleasure and excitement from our call girls. Our call girls are full of positivity, and they can pamper your mind. Our call girls have incredible stamina for delivering high performance. So, call us right now. Our contact numbers are given in the contact section. If you are looking for matchless erotic pleasure and are missing the killer smile of young females who have high energy and are irresistible, then book a call girl from our agency.</p>
 
             <p>Hey, now the topic: if you are serving this type of service, please be advised first and be safe and careful. Always take safety first, then get serviced at this facility. All right, maybe this area would be licensed for the&nbsp;<a href="<?= get_url() ?>" rel="noreferrer noopener" target="_blank"><strong>Lucknow escort service</strong></a>. If not, then nobody has dared to seal it. All the Raees boys and others are using these services secretly.</p>
 
@@ -1529,7 +1529,7 @@ $home = 'home';
 
             <p>Are you finding the&nbsp;<em>sugar baby call girl</em>&nbsp;for enjoyment? Yes, we are here to provide you with a hot, sizzling female partner who can give you special treatment whenever you feel such loneliness. Nowadays, within Lucknow, it&rsquo;s not a big challenge to explore and get the desired partner with a hot and sexy body figure.</p>
 
-            <p>We would offer you a perfect partner throughout the hot Lucknow call girls. These hot girls from Lucknow will cuddle you throughout the day and night as per your requirements.</p>
+            <p>We would offer you a perfect partner throughout the hot <a href="<?= get_url() ?>lucknow-call-girls/"></a>Lucknow call girls</a>. These hot girls from Lucknow will cuddle you throughout the day and night as per your requirements.</p>
 
             <p>Don&rsquo;t worry!! We won&rsquo;t keep you waiting!!! We are very quick in providing our service.</p>
 
