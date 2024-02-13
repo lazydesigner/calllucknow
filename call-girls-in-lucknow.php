@@ -8,17 +8,17 @@ include './profiles-card.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
     <link rel="preconnect" href="<?= $cdn_url ?>" crossorigin>
-    <title>350+ call girls in Lucknow at cheap rates</title>
-    <meta name="description" content="Are you looking for call girls in Lucknow? Raman escort service is a classified site providing more than 250 independent call girls across the city.">
+    <title>350+ Call Girls in Lucknow at Cheap Rates | 7388211116</title>
+    <meta name="description" content="Are you looking for Geniun Call Girls in Lucknow? We are a classified site providing 250+ independent Lucknow call girls across the city.">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="350+ call girls in Lucknow at cheap rates" />
-    <meta property="og:description" content="Are you looking for call girls in Lucknow? Raman escort service is a classified site providing more than 250 independent call girls across the city." />
+    <meta property="og:title" content="350+ Call Girls in Lucknow at Cheap Rates | 7388211116" />
+    <meta property="og:description" content="Are you looking for Geniun Call Girls in Lucknow? We are a classified site providing 250+ independent Lucknow call girls across the city." />
     <meta property="og:url" content="<?= get_url() ?>call-girls-in-lucknow/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="350+ call girls in Lucknow at cheap rates" />
-    <meta name="twitter:description" content="Are you looking for call girls in Lucknow? Raman escort service is a classified site providing more than 250 independent call girls across the city." />
+    <meta name="twitter:title" content="350+ Call Girls in Lucknow at Cheap Rates | 7388211116" />
+    <meta name="twitter:description" content="Are you looking for Geniun Call Girls in Lucknow? We are a classified site providing 250+ independent Lucknow call girls across the city." />
     <link rel="canonical" href="<?= get_url() ?>call-girls-in-lucknow/" />
     <!-- <link rel="stylesheet" href="./assets/css/header.css" async>
     <link rel="stylesheet" href="./assets/css/home.css" async>
