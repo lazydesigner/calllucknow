@@ -32,6 +32,7 @@ include '../profiles-card.php'; $ima_ge = 'banner/varanasi';$header = 'varanasi'
             padding: 1%;
         }
     </style>
+    <?php $phone_number = '+918533079550'; ?>
 </head>
 
 <body>
