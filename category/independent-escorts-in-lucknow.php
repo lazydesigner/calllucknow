@@ -50,7 +50,7 @@ include '../profiles-card.php'; ?>
                 <p>We understand the having proper with the companion to all with the chemistry, so once the real girlfriend&rsquo;s desire do all they seek out of the appropriate girl (or girls) match tastes desires.</p>
 
                 <p>The hard trying to provide the good and sort girls which looks, the talents to the personalities. We are trying to find classy with the dinner date, cultured conversation, experienced guide.</p>
-
+                <?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

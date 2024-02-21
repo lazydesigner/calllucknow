@@ -58,7 +58,7 @@ include '../profiles-card.php'; ?>
                 <h2 class="second-heading">Are VIP escorts in Lucknow worth my time or money?</h2>
 
                 <p>Different men have different tastes, and VIP escorts are not for all men. These attractive ladies are not just young but also provide fantastic service to their clients. If you really want to make your spending on escorts valuable, then VIP escorts are your best choice. Escorts like them have been in the industry from a very young age and have very good experience entertaining men. Our young ladies will love you unconditionally and with a lot of care. They are also very good at erotic massages and other sensual activities like role play to enlighten the mood. As they are best at their service, they are a little costly to get. But you will encounter multiple orgasms with them that you will not easily forget. If you have enough money to hire&nbsp;<a href="https://callgirlsinlucknow.in/">VIP call girls in Lucknow</a>, it could be your best investment in life. Get the best and cleanest lady for the exclusive night of your life with Raman escort service in Lucknow.</p>
-
+                    <?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

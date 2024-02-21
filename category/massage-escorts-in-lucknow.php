@@ -71,7 +71,7 @@ include '../profiles-card.php'; ?>
                 <p>We are hiring our escort service due to the primary time. Afterward, our Lucknow escort desires all the lies to help. We have the bear after to impart the thought of imitation for the pleasure of redacting for a personal staff to choose and assist the bear for a vivid experience. Some are very regardless and like to sort the sexual ride, like Our&nbsp;<strong><a href="https://www.callgirlsinlucknow.in/">Lucknow escorts Agency&nbsp;</a></strong>is the place imitation redacts for every sexual fantasy.</p>
 
                 <p>All the Lucknow escort&rsquo;s features are competent to hold the quiet couple with the many varieties regarding our services. The supply of every particular category of the application&rsquo;s maximum amount takes care of the purchaser&rsquo;s requirements.</p>
-
+                <?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

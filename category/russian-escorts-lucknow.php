@@ -182,7 +182,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-                <h1 class="main-heading">Russian-escorts-Lucknow</h1>
+                <h1 class="main-heading">Russian escorts Lucknow</h1>
 
                 <h2 class="second-heading"><strong>Temptations from the East: Naughty Russian Escorts in Lucknow Await</strong></h2>
                 <div style="width: 100%; height:auto">

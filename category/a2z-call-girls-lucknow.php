@@ -78,7 +78,7 @@ Developed Erotic culture</p>
 We believe that the success of our business largely depends on the call girls who work for us.</p>
 
 <p>If you are young, promising and professionals in your field.</p>
-
+<?=$profile ?>
 
             </div>
             <div class="side-content">

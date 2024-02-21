@@ -38,7 +38,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-              
+            <?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

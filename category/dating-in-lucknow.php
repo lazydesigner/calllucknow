@@ -39,7 +39,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-                <h1 class="main-heading">Dating-in-Lucknow</h1>
+                <h1 class="main-heading">Dating in Lucknow</h1>
 
                 <h2 class="second-heading"><strong>We Provide Sexy Dating Girls in Lucknow to make your Life Amazing!!</strong></h2>
                 <div style="width: 100%;height:auto">
@@ -63,7 +63,7 @@ include '../profiles-card.php'; ?>
                 <p>Our former customers confidently state that they have utilized their real money and time. The people of Lucknow are all beautiful. The girls have maintained their perfect body and shape. They&rsquo;ll blow our client&rsquo;s minds, and they&rsquo;ll feel extraordinary. The amount of satisfaction is considered and selected based on the flavor demand, which you can hire. Our dating call girls will understand your psychological condition, and you&rsquo;ll feel maximum comfort and relaxation. It&rsquo;s possible to enjoy crazy performances by our call girls all Night at our service.</p>
 
                 <p>Everyone understands the significance of young beauties. We have different kinds of youthful beauties, and they won&rsquo;t ever leave a burden on you. Every moment you&rsquo;ll feel like the prince of your kingdom. To meet your endless desire, they will give pleasure in every kind of distinct position. It&rsquo;s possible to reserve our call girl service Lucknow at any moment, and you&rsquo;ll find a wonderful experience in our escort service Lucknow. The main thing about our Lucknow escorts is that we now have a Beautiful collection of young ladies who are desperate to date you in&nbsp;<strong><a href="https://www.callgirlsinlucknow.in/dating-escorts/">Lucknow dating clubs</a></strong>.</p>
-
+                    <?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

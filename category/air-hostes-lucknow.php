@@ -95,7 +95,7 @@ include '../profiles-card.php'; ?>
         </div>
         <div class="page-container">
             <div class="main-content">
-            <h1 class="main-heading">Air-Hostess-Lucknow</h1>
+            <h1 class="main-heading">Air Hostess Lucknow</h1>
 
 <p>WELCOME GENTLEMEN !</p>
 
@@ -110,7 +110,7 @@ include '../profiles-card.php'; ?>
 <p>My sparkling eyes, silky hair and milky skin mix additional sensation to the pleasures we have both together. So, if you are tired or feeling bored you can get me for couple of hours and all your tiredness will go away. You feel refreshing with me and my Florence body gives you new energies. The only think that I can make you articulate is honesty and loyalty which I have in my attitude.</p>
 
 <p>So, if you are ready to go on erotic ride with me in Lucknow, then you just don&rsquo;t hesitate in contacting me. My charges are affordable and love to spend as longer as you want. I can come to your hotel room and give you all those pleasures that you are imaging for a long time. I promise you to get the best time for you.</p>
-
+<?=$profile ?>
 
             </div>
             <div class="side-content">

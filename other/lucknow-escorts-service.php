@@ -39,7 +39,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-                <h1 class="main-heading">Lucknow-Escorts-Service</h1>
+                <h1 class="main-heading">Lucknow Escorts Service</h1>
 
                 <h2 class="second-heading">Lucknow Escorts in Lucknow</h2>
 
@@ -82,7 +82,7 @@ include '../profiles-card.php'; ?>
                 <p>All required High Profile Escorts &amp; Lucknow Escorts services toys are provided at time of joining at zero cost.</p>
 
                 <p>After the service 100% guaranteed HAPPY ENDING.</p>
-
+                <?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

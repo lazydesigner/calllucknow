@@ -38,7 +38,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-            <h1 class="main-heading">lucknow-call-girls</h1>
+            <h1 class="main-heading">lucknow call girls</h1>
 
 <h2 class="second-heading">Enjoy Most Sexy Lucknow Call Girls for full Sexual Satisfaction</h2>
 

@@ -57,7 +57,7 @@ include '../profiles-card.php'; ?>
 <p>Living in the capital city of Uttar Pradesh luxuriously is nothing less than a privilege for people who wish to overcome challenges like loneliness and depression. Loneliness contributes to various other issues and constant anxieties, stresses, and people who run through those struggles can easily be observed.</p>
 
 <p>The uniqueness could be understood at&nbsp;<strong>Lucknow escorts&nbsp;</strong>as they&rsquo;re down to earth, sensual, enjoyable, intimate, and keep high profiles. All these are the reasons why individuals come shortly after fulfilling once normally fall in love together. Lucknow is the town at which you will have distinct business purposes and even though. If you can&rsquo;t come out leaving the relaxation and love with your partner, then here we can arrange it. Our priority is to satisfy the customer&rsquo;s needs and fulfill his desires. So book your sexy dream girl to fulfill all your desires under one roof. And we definitely provide our best service here in Lucknow. Book call girl now which you want to book you can see profiles in the gallery and complete your all desires now.</p>
-
+<?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

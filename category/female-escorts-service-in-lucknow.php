@@ -39,12 +39,12 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-                <h1 class="main-heading">Female-escorts-service-in-Lucknow</h1>
+                <h1 class="main-heading">Female escorts service in Lucknow</h1>
 
                 <h2 class="second-heading">Lucknow Escorts offered naturally busty sexy curves.</h2>
 
                 <p>But only a few hot sexy call girls blessed natural curves. Well, great news such as Lucknow escorts dashing working body. Once set eyes regret hiring rationale sexy<a href="https://www.callgirlsinlucknow.in/female-escorts-service-in-lucknow/">&nbsp;<strong>Lucknow female escorts</strong>&nbsp;</a>damn fantastic. Fees pretty for the nominal. Overthink, hire immediately.&nbsp;<strong>Lucknow Call Girls</strong>&nbsp;beforehand since most men are coming hill stations hire ahead .come Lucknow, only 4 hours faraway Lucknow. Easily&nbsp;<strong><a href="https://www.callgirlsinlucknow.in/">Hire Lucknow Escort</a></strong>&nbsp;to take. Hire our&nbsp;<strong>Lucknow escorts service</strong>&nbsp;because we are the&nbsp;<strong><a href="https://www.callgirlsinlucknow.in/">best Lucknow escort agency</a></strong>. The website got offers tons of delight. Contact enjoy pleasures. Bet in the very high-class profiles, our sexy call girls in Lucknow certainly cause happiness. The number foremost amazing girl found experienced amateurs</p>
-
+                    <?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

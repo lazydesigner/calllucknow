@@ -38,9 +38,9 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-            <h1 class="main-heading">High-class escorts In Lucknow</h1>
+            <h1 class="main-heading">High class escorts In Lucknow</h1>
 
-<h2 class="second-heading">PREMIUM &amp; HIGH-CLASS ESCORTS IN LUCKNOW</h2>
+<h2 class="second-heading">PREMIUM &amp; HIGH CLASS ESCORTS IN LUCKNOW</h2>
 
 <p><br />
 Welcome to our high-class escort service in Lucknow, offering a wide range of enchanting<strong>&nbsp;Lucknow Luxurious female escorts</strong>. Our escorts are highly educated and beautiful and can provide you with an unparalleled experience. In addition, they are well trained to be tailored to satisfy all your desires. We hand-picked all our exquisite escorts so that all our escorts are not only beautiful but also refined. All our escorts are full of etiquette and manners if you are seeking a companion for your business parties or social events.</p>

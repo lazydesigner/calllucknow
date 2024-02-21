@@ -38,7 +38,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-            <h1>Escort-girls-in-Lucknow</h1>
+            <h1>Escort girls in Lucknow</h1>
 <h2>Top-rated escorts girls in Lucknow at cheap rate</h2>
 <p>
 The state legislative assembly understands that the Lucknowescorts service could be a part of adult amusement and has passed different measures to manage these services to make sure that it’s different from mere harlotry. The reason behind this restriction is to keep minors away from such services. The escorts are trained and educated to turn all of your fantasies into reality. They need complete data on assorted moves that may cause you to be thrilled. They are attractive and engaging, and you may undoubtedly find it troublesome to settle on one of them.
@@ -49,6 +49,7 @@ These women are hot and esthetical, and they grasp each move to make your night 
 
 Lucknow Escorts online offers this permit to most individuals, like Lucknow Escort. Lucknowescort has developed an excellent reputation for delivering the most effective escort services. These Lucknow high-class women are incredible at creating a genuine surprise in your life.</p>
             </div>
+            <?=$profile ?>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>
             </div>

@@ -38,7 +38,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-            <h1 class="main-heading">house-wife-lucknow</h1>
+            <h1 class="main-heading">house wife Lucknow</h1>
 
 <h2 class="second-heading"><strong>Lucknow House Wife Escorts Book a hot housewives in Lucknow Now</strong></h2>
 
@@ -65,7 +65,7 @@ include '../profiles-card.php'; ?>
 <p>These 3 are the significant kinds of escorts which everybody is familiar with and want to get on his bed. Newlywed&nbsp;<a href="https://www.callgirlsinlucknow.in/"><strong>Lucknow housewife</strong>&nbsp;<strong>escorts</strong>&nbsp;</a>are more popular amongst the pleasure-seekers; however, they&rsquo;re tough to get. Unsatisfied&nbsp;<strong>Lucknow housewife</strong>&nbsp;escorts are high in the marketplace as they allow the clients for many exclusive sensual services. They never hold twice ere opening their parts wide apart. The best thing about making love with homemakers in Lucknow is that they don&rsquo;t refuse to serve the joy of anal intercourse. You can Savor this pleasure with obsessed working-class girls. They could either spend the entire night in your arms, although the rest of the others function in the daytime only.</p>
 
 <p>From running cheap&nbsp;<strong>Lucknow housewife</strong>&nbsp;escorts in Lucknow to organizing accommodation facilities, the Lucknow escort service manages everything. Our organization ensures the quality of women and also on analyze Their body health.</p>
-
+<?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>

@@ -39,7 +39,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-                <h1 class="main-heading">Cheap-rate-call-girls-Lucknow</h1>
+                <h1 class="main-heading">Cheap rate call girls Lucknow</h1>
 
                 <h2 class="second-heading">Now Available on Cheap Rate Call Girls Lucknow &ndash; Escorts call 0000000000&mdash;cheap rate call girls</h2>
 
@@ -56,7 +56,7 @@ include '../profiles-card.php'; ?>
                 <p>Our Susmita&nbsp;<strong>Lucknow call girl&nbsp;</strong>provides service for 24 hours.&nbsp;<strong>Everything desires life to act and behave according to the hearts of gentlemen</strong>. Our girls have a beautiful and strong connection with every client. The ever go for good days service to go doors for the life of the gentlemen for&nbsp;<a href="https://www.callgirlsinlucknow.in/">house wife lucknow</a>.</p>
 
                 <p><strong><a href="https://www.callgirlsinlucknow.in/category/men-looking-women/">Back</a></strong></p>
-
+                <?=$profile ?>
             </div>
             <div class="side-content">
                 <?php include '../side-page-content.php'; ?>
