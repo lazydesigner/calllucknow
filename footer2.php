@@ -59,7 +59,7 @@
     <div class="footer-row">
         <div class="footer-col">
             <div class="footer-img-div">
-                <img src="<?= $cdn_url ?>Raman-Escort-Service.png" width="100%" height="100%" alt="Raman Escorts Service" loading="lazy">
+                <img src="https://cdn.callgirlsinlucknow.in/goa-profiles/Raman-Escort-Service.png" width="100%" height="100%" alt="Raman Escorts Service" loading="lazy">
             </div>
         </div>
         <div class="footer-col">
