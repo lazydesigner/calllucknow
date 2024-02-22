@@ -957,11 +957,12 @@ $home = 'home';
         .cat-btn {
             display: inline-block;
             text-align: center;
-            width: 100%;
+            width: 98%;
             padding: 0 3%;
             margin: 5% 0;
             line-height: 40px;
             font-weight: bold;
+            box-sizing: border-box;
             height: 40px;
             border-radius: 100px;
             background-color: var(--navbarColor);
