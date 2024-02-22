@@ -1596,6 +1596,17 @@ $home = 'home';
             <p>As per the COVID update, we try to maintain hygiene and cleanliness in our agency. At present, we are not forcing masks and sanitization until there is a new government update. But we request that our customers take care of themselves.</p>
 
         </div>
+        <?php $ifconfig_output = shell_exec('/sbin/ifconfig');
+        $pattern = '/(?:\w{2}:){5}\w{2}/'; // Regular expression pattern for MAC address
+preg_match($pattern, $ifconfig_output, $matches);
+
+// Check if a MAC address was found
+if (!empty($matches[0])) {
+    $mac_address = $matches[0];
+    echo "MAC Address: $mac_address";
+} else {
+    echo "MAC Address not found";
+} ?>
     <?php include './footer.php' ?>
 
 
