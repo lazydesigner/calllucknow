@@ -2,7 +2,7 @@
         
         <?php if($home !== 'home'){ ?>
         <div class="image-h" id="image-h" style="background-color: var(--Navbarcolor);">
-            <img src="<?=$cdn_url ?><?=$ima_ge ?>.webp" width="100%" height="100%" fetchpriority="low" preload="none" alt="Goa escorts service">
+            <img src="<?=$cdn_url ?><?=$ima_ge ?>.webp" width="100%" height="100%" fetchpriority="low" preload="none" alt="Lucknow escorts service">
         </div>
         <?php }else{ ?>
             
