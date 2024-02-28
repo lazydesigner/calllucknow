@@ -275,6 +275,6 @@
   "@type": "Organization",
   "name": "Raman Escorts Service",
   "url": "https://callgirlsinlucknow.in",
-  "logo": "https://cdn.callgirlsinlucknow.in/assets/images/lucknow-profiles/Raman-Escort-Service.png"
+  "logo": "https://cdn.callgirlsinlucknow.in/lucknow-profiles/Raman-Escort-Service.png"
 }
 </script>

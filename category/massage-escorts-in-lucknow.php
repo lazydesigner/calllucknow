@@ -62,7 +62,7 @@ include '../profiles-card.php'; ?>
                     <li>You would like an intimate partner to spend some time with, a travel partner accompanying you, an escort agency in Lucknow, and a cover VIP status escort in Lucknow. Pick your choice of girl for an overnight escape, weekend party, or couple service. Lucknow call girls satiate sexual fantasies. Our agency believes in concentrating on serving the most favorable call girls through all legwork.</li>
                 </ul>
 
-                <div style="width:100%; height:auto"><img alt="erotic massage service in Lucknow" src="https://www.callgirlsinlucknow.in/wp-content/uploads/2023/12/Erotic-Massage-Service.webp" width="100%" height="auto" /></div>
+                <!-- <div style="width:100%; height:auto"><img alt="erotic massage service in Lucknow" src="https://www.callgirlsinlucknow.in/wp-content/uploads/2023/12/Erotic-Massage-Service.webp" width="100%" height="auto" /></div> -->
 
                 <h2 class="second-heading"><strong>Lucknow Massage Escorts Services</strong></h2>
 

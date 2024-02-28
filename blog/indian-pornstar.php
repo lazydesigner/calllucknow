@@ -450,7 +450,7 @@ include '../profiles-card.php'; ?>
 
                 <p>Gaya Patal is a highly famous Hindi porn star who appears in adult films and is considered to be one of the top 10 Indian pornstars. Her performances are known to be incredibly electrifying, making her a favorite amongst fans all over the world. Gaya has been featured in numerous hardcore scenes, including some of her more popular anal and double penetration scenes. On top of that, she has also appeared in girl-on-girl videos, making her an industry triple threat.</p>
 
-                <p><img alt="" src="https://www.callgirlsinlucknow.in/wp-content/uploads/2023/12/jaya-patel.webp" style="height:350px; width:525px" /></p>
+                <!-- <p><img alt="" src="https://www.callgirlsinlucknow.in/wp-content/uploads/2023/12/jaya-patel.webp" style="height:350px; width:525px" /></p> -->
 
                 <p>It&rsquo;s impossible to overlook Gaya Patal, one of India&rsquo;s top ten pornstars. Her popularity is undeniable, and she can be the busty babe of your dreams. Her favorite sex position is 69, as it gives her the most satisfaction.</p>
 
