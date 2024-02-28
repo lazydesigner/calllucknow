@@ -57,7 +57,7 @@ include '../profiles-card.php'; ?>
 
 <p>So join us, pick your perfect date, and start getting a charge from their most good snapshots of your lifetime.</p>
 
-<p>As we&rsquo;ve mentioned earlier, the appealing&nbsp;<a href="<?+get_url() ?>"><strong>Raman Escorts</strong></a>&nbsp;provide endless supply to you with the very&nbsp;<strong>best big boobs call girls</strong>.</p>
+<p>As we&rsquo;ve mentioned earlier, the appealing&nbsp;<a href="<?=get_url() ?>"><strong>Raman Escorts</strong></a>&nbsp;provide endless supply to you with the very&nbsp;<strong>best big boobs call girls</strong>.</p>
 
 <p>Our&nbsp;<strong>big boobs call girls&nbsp;</strong>also maintain their health and keep their private part hygiene so that customers can take most of its benefits. The security of both call girls and customers are our priority. We never expose any information about any customer. All the customer profiles are private so that they can enjoy and fulfil all their needs.</p>
 

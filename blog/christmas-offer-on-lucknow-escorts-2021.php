@@ -13,12 +13,12 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="christmas offer on lucknow escorts" />
     <meta property="og:description" content="christmas offer on lucknow escorts specially for your entertanment" />
-    <meta property="og:url" content="<?= get_url() ?>christmas-offer-on-lucknow-escorts-2021/" />
+    <meta property="og:url" content="<?= get_url() ?>blog/christmas-offer-on-lucknow-escorts-2021/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="christmas offer on lucknow escorts" />
     <meta name="twitter:description" content="christmas offer on lucknow escorts specially for your entertanment" />
-    <link rel="canonical" href="<?= get_url() ?>christmas-offer-on-lucknow-escorts-2021/" />
+    <link rel="canonical" href="<?= get_url() ?>blog/christmas-offer-on-lucknow-escorts-2021/" />
     <?=$pages_css ?>
     <style>
         table{

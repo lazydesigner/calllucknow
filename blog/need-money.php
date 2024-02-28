@@ -13,12 +13,12 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Need Money Join our MAle Escorts" />
     <meta property="og:description" content="Get Ready too get free escorts service if you are valid for the fucking contest" />
-    <meta property="og:url" content="<?= get_url() ?>agonda-escorts/" />
+    <meta property="og:url" content="<?= get_url() ?>blog/need-money/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Need Money Join our MAle Escorts" />
     <meta name="twitter:description" content="Get Ready too get free escorts service if you are valid for the fucking contest" />
-    <link rel="canonical" href="<?= get_url() ?>agonda-escorts/" />
+    <link rel="canonical" href="<?= get_url() ?>blog/need-money/" />
     <?=$pages_css ?>
     <style>
         table{

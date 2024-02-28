@@ -13,12 +13,12 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="call girl lucknow sex story" />
     <meta property="og:description" content="To Enjoy Sex Stories From real call girls of Lucknow. Join our website." />
-    <meta property="og:url" content="<?= get_url() ?>agonda-escorts/" />
+    <meta property="og:url" content="<?= get_url() ?>blog/call-girl-lucknow-sex-story/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="call girl lucknow sex story" />
     <meta name="twitter:description" content="To Enjoy Sex Stories From real call girls of Lucknow. Join our website." />
-    <link rel="canonical" href="<?= get_url() ?>agonda-escorts/" />
+    <link rel="canonical" href="<?= get_url() ?>blog/call-girl-lucknow-sex-story/" />
     <?=$pages_css ?>
     <style>
         table{

@@ -13,12 +13,12 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Girls phone Number - Randi Ka Phone Number" />
     <meta property="og:description" content="We here to serve you the happy-jolly-joyful, so on a better choice if you have any more queries to clarify your doubts, then you must call us. There are many" />
-    <meta property="og:url" content="<?= get_url() ?>agonda-escorts/" />
+    <meta property="og:url" content="<?= get_url() ?>blog/girls-phone-number/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Girls phone Number - Randi Ka Phone Number" />
     <meta name="twitter:description" content="We here to serve you the happy-jolly-joyful, so on a better choice if you have any more queries to clarify your doubts, then you must call us. There are many" />
-    <link rel="canonical" href="<?= get_url() ?>agonda-escorts/" />
+    <link rel="canonical" href="<?= get_url() ?>blog/girls-phone-number/" />
     <?=$pages_css ?>
     <style>
         table{
