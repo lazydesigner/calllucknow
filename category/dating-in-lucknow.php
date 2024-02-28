@@ -13,12 +13,12 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Portal To Find Dating Partner In Lucknow- Dating Girls In Lucknow" />
     <meta property="og:description" content="You can find fine profiles on our website to find an excellent dating partner in Lucknow. You can ask to have casual encounter on your date." />
-    <meta property="og:url" content="<?= get_url() ?>dating-in-lucknow/" />
+    <meta property="og:url" content="<?= get_url() ?>dating-escorts/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Best Portal To Find Dating Partner In Lucknow- Dating Girls In Lucknow" />
     <meta name="twitter:description" content="You can find fine profiles on our website to find an excellent dating partner in Lucknow. You can ask to have casual encounter on your date." />
-    <link rel="canonical" href="<?= get_url() ?>dating-in-lucknow/" />
+    <link rel="canonical" href="<?= get_url() ?>dating-escorts/" />
     <?= $pages_css ?>
     <style>
         table {
