@@ -39,7 +39,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-                <h1 class="main-heading">Dating in Lucknow</h1>
+                <h1 class="main-heading">Dating Escorts in Lucknow</h1>
 
                 <h2 class="second-heading"><strong>We Provide Sexy Dating Girls in Lucknow to make your Life Amazing!!</strong></h2>
                 <div style="width: 100%;height:auto">

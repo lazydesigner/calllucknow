@@ -13,12 +13,12 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Top 10 Red Light Areas In Lucknow | Randi Khana In Lucknow" />
     <meta property="og:description" content="Top 10 Red Light Areas in Lucknow. Find out about the most popular areas to find call girls in Lucknow, so you can easily find what your Lucknow escorts are" />
-    <meta property="og:url" content="<?= get_url() ?>red-light-areas-in-lucknow/" />
+    <meta property="og:url" content="<?= get_url() ?>blog/red-light-areas-in-lucknow/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Top 10 Red Light Areas In Lucknow | Randi Khana In Lucknow" />
     <meta name="twitter:description" content="Top 10 Red Light Areas in Lucknow. Find out about the most popular areas to find call girls in Lucknow, so you can easily find what your Lucknow escorts are" />
-    <link rel="canonical" href="<?= get_url() ?>red-light-areas-in-lucknow/" />
+    <link rel="canonical" href="<?= get_url() ?>blog/red-light-areas-in-lucknow/" />
     <?= $pages_css ?>
     <style>
         table {
