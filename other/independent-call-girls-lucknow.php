@@ -7,7 +7,7 @@ include '../profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>ESCORTS Services In Lucknow. Very Independent-call-girls-Lucknow &amp; High Profile ESCORTS Services In Lucknow</title>
+    <title>Book Independent Call Girls In Lucknow</title>
     <meta name="description" content="ESCORTS Services In Lucknow. Very Independent-call-girls-Lucknow &amp; High Profile ESCORTS Services In Lucknow">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />

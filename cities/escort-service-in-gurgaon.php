@@ -252,7 +252,7 @@ include '../profiles-card.php'; $ima_ge = 'banner/gurugram';?>
                     <div class="profile-section">
                         <div class="profile-card">
                             <div class="profile-card-img">
-                                <img src="<?= $cdn_url ?>gurgaon/payel.webp" loading="lazy" width="100%" height="100%" aalt="cheap desi-type young girl with a cubby figure in Gurgaon for erotic services.">
+                                <img src="<?= $cdn_url ?>gurgaon/payel.webp" loading="lazy" width="100%" height="100%" alt="cheap desi-type young girl with a cubby figure in Gurgaon for erotic services.">
                             </div>
                             <div class="profile-card-detail">
 
