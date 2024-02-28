@@ -115,10 +115,10 @@ $profile = '<div class="new-profile-area">
 <div class="profile-section">
     <div class="profile-card">
         <div class="profile-card-img">
-            <a href="'.get_url().'escorts-near-clarks-awadh/"><img src="'.$cdn_url.'mature.webp" width="100%" height="100%" alt="college girl" loading="lazy"></a>
+            <a href="'.get_url().'escorts-near-clarks-avadh/"><img src="'.$cdn_url.'mature.webp" width="100%" height="100%" alt="college girl" loading="lazy"></a>
         </div>
         <div class="profile-card-detail">
-            <a href="'.get_url().'escorts-near-clarks-awadh/">
+            <a href="'.get_url().'escorts-near-clarks-avadh/">
                 <p class="profile-name">Alia</p>
             </a>
             <div class="profile-details">
@@ -126,9 +126,9 @@ $profile = '<div class="new-profile-area">
                 <div class="det-1">32D</div>
                 <div class="det-1">59kg</div>
             </div>
-            <a href="'.get_url().'escorts-near-clarks-awadh/">
+            <a href="'.get_url().'escorts-near-clarks-avadh/">
                 <div class="profile-cat">Mature call girls</div>
-                <div class="profile-area">Clarks Awadh</div>
+                <div class="profile-area">Clarks Avadh</div>
             </a>
         </div>
     </div>

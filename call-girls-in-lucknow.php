@@ -1468,7 +1468,7 @@ include './profiles-card.php'; ?>
                 </div>
             </div>
             <h4 class="third-heading">The list of responsibilities we carry out for the society:</h4>
-            <p>As a renowned <a href="<?= get_url() ?>/lucknow-call-girls/">call girl agency in Lucknow</a>, we have taken up some responsibilities and carry out proper experience to make that our services is clean and safe for our clients. These responsibilities make us liable to full satisfaction of our customers. We make sure that our every client is happy with our escort services:</p>
+            <p>As a renowned <a href="<?= get_url() ?>lucknow-call-girls/">call girl agency in Lucknow</a>, we have taken up some responsibilities and carry out proper experience to make that our services is clean and safe for our clients. These responsibilities make us liable to full satisfaction of our customers. We make sure that our every client is happy with our escort services:</p>
             <ul>
                 <li>We arrange regular medical checkups of our girls to ensure that they don’t carry any STDs. making sure that our call girl have healthy body and enjoy with you.</li>
                 <li>We take everything in our hands so that you don’t have to worry about anything when hiring one from our website.</li>

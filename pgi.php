@@ -1,5 +1,5 @@
-<?php include '../routes.php';
-include '../profiles-card.php'; ?>
+<?php include './routes.php';
+include './profiles-card.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -23,7 +23,7 @@ include '../profiles-card.php'; ?>
 </head>
 
 <body>
-    <?php include '../header.php' ?>
+    <?php include './header.php' ?>
     <div class="content-container">
        
         <div class="page-container">
@@ -38,12 +38,12 @@ include '../profiles-card.php'; ?>
                 <?= $profile ?>
             </div>
             <div class="side-content">
-                <?php include '../side-page-content.php'; ?>
+                <?php include './side-page-content.php'; ?>
             </div>
         </div>
 
 
-        <?php include '../footer.php' ?>
+        <?php include './footer.php' ?>
     </div>
 </body>
 

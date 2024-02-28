@@ -84,7 +84,7 @@ RewriteRule ^call-girls-in-golf-city-lucknow/?$ https://callgirlsinlucknow.in/ [
 RewriteRule ^sizzling-model-call-girls-in-lucknow/?$ https://callgirlsinlucknow.in/ [R=301,L]
 RewriteRule ^modeling/?$ https://www.callgirlsinlucknow.in/massage-escorts-in-lucknow/ [R=301,L]
 RewriteRule ^top-porn-tube-sites/?$ https://www.callgirlsinlucknow.in/lucknow-porn/ [R=301,L]
-RewriteRule ^dating-escorts/?$ https://www.callgirlsinlucknow.in/dating-escorts/ [R=301,L]
+#RewriteRule ^dating-escorts/?$ https://www.callgirlsinlucknow.in/dating-escorts/ [R=301,L]
 RewriteRule ^escorts-in-novotel-hotel/?$ https://www.callgirlsinlucknow.in/escorts-near-novotel-hotel/ [R=301,L]
 RewriteRule ^vip-call-girls-lucknow-escorts-girls-lucknow-escort-in-lucknow/?$ https://www.callgirlsinlucknow.in/vip-escorts/ [R=301,L]
 

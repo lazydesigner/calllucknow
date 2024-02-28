@@ -13,12 +13,12 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Anal-sex-call-girls-Lucknow | Call Girls In Lucknow" />
     <meta property="og:description" content="Get best anal sex call girls in Lucknow at affordable rates. Contact us for more details." />
-    <meta property="og:url" content="<?= get_url() ?>anal-sex-call-girls-lucknow/" />
+    <meta property="og:url" content="<?= get_url() ?>anal-escorts-lucknow/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Anal-sex-call-girls-Lucknow | Call Girls In Lucknow" />
     <meta name="twitter:description" content="Get best anal sex call girls in Lucknow at affordable rates. Contact us for more details." />
-    <link rel="canonical" href="<?= get_url() ?>anal-sex-call-girls-lucknow/" />
+    <link rel="canonical" href="<?= get_url() ?>anal-escorts-lucknow/" />
     <?=$pages_css ?>
     <style>
         table{
