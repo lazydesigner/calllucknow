@@ -214,7 +214,7 @@ $half_star = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
                                 <small>13/8/2023</small>
                             </div>
                         </div>
-                        <a href="https://localhost/Lucknow/callgirlsinlucknow.in/call-girls-in-lda-colony/">https://localhost/Lucknow/callgirlsinlucknow.in/call-girls-in-lda-colony/</a>
+                        <a href="https://callgirlsinlucknow.in/call-girls-in-lda-colony/">https://callgirlsinlucknow.in/call-girls-in-lda-colony/</a>
                         <p>Thanks for Making my night memorable...
                             I will never go anywhere else to get a escort service.
                             Thanks again!.</p>
