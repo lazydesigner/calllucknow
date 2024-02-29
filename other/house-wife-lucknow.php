@@ -18,7 +18,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Recently Married Housewife Escorts In Lucknow- Callgirlsinlucknow.in" />
     <meta name="twitter:description" content="Housewife Escorts are desired by all unmarried or unsatified mens. There is a chance to enjoy married sexual life without real burden." />
-    <link rel="canonical" href="<?= get_url() ?>" />
+    <link rel="canonical" href="<?= get_url() ?>house-wife-lucknow/" />
     <?=$pages_css ?>
     <style>
         table{
@@ -38,7 +38,7 @@ include '../profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content">
-            <h1 class="main-heading">house wife Lucknow</h1>
+            <h1 class="main-heading">House Wife Escorts in Lucknow</h1>
 
 <h2 class="second-heading"><strong>Lucknow House Wife Escorts Book a hot housewives in Lucknow Now</strong></h2>
 

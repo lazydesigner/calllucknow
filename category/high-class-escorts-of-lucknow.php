@@ -58,7 +58,7 @@ You can enhance your stay in this vibrant city, Lucknow, with our captivating es
 <p><br />
 These escorts often have exceptional communication skills, which can be used to seduce our clients and make their time memorable.</p>
 
-<p>But if you are not able to find a&nbsp;<a href="https://callgirlsinlucknow.in/high-class-escorts-in-lucknow">high call escort</a>&nbsp;for yourself, then&nbsp;<a href="https://callgirlsinlucknow.in/contact-us/">contact us</a>.</p>
+<p>But if you are not able to find a&nbsp;<a href="https://callgirlsinlucknow.in/high-class-escorts-in-lucknow/">high call escort in lucknow</a>&nbsp;for yourself, then&nbsp;<a href="https://callgirlsinlucknow.in/contact-us/">contact us</a>.</p>
 <?=$profile ?>
             </div>
             <div class="side-content">
