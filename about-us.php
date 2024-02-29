@@ -38,11 +38,11 @@ include './profiles-card.php'; ?>
 
                 <p><strong>Callgirlsinlucknow.in is not liable for any financial or other losses as we are just an ad serving website and not responsible for the direct services.</strong></p>
 
-                <p>Please make sure you are dealing with a genuine person and don&rsquo;t pay any amount in advance.&nbsp;<a href="https://www.callgirlsinlucknow.in/">Visit our homepage&nbsp;</a>for most exclusive service we have on our website.</p>
+                <p>Please make sure you are dealing with a genuine person and don&rsquo;t pay any amount in advance.&nbsp;<a href="https://callgirlsinlucknow.in/">Visit our homepage&nbsp;</a>for most exclusive service we have on our website.</p>
 
-                <p>Read&nbsp;<a href="https://www.callgirlsinlucknow.in/disclaimer/">our term of use&nbsp;</a>before initiating any financial step online. You can register your grievances by using our&nbsp;<a href="https://www.callgirlsinlucknow.in/contact-us/">contact form</a>.</p>
+                <p>Read&nbsp;<a href="https://callgirlsinlucknow.in/disclaimer/">our term of use&nbsp;</a>before initiating any financial step online. You can register your grievances by using our&nbsp;<a href="https://callgirlsinlucknow.in/contact-us/">contact form</a>.</p>
 
-                <p>If you are looking for call girls in Agra , the you can&nbsp;<a href="https://www.callgirlsinlucknow.in/call-girls-in-agra/" rel="noreferrer noopener" target="_blank">visit here</a>. This is our official page for Agra city where you will find relevant contact details.</p>
+                <p>If you are looking for call girls in Agra , the you can&nbsp;<a href="https://callgirlsinlucknow.in/call-girls-in-agra/" rel="noreferrer noopener" target="_blank">visit here</a>. This is our official page for Agra city where you will find relevant contact details.</p>
                 <?=$profile ?>
             </div>
             <div class="side-content">

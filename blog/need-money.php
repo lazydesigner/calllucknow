@@ -42,7 +42,7 @@ include '../profiles-card.php'; ?>
 
 <p>Why choose Callgirlsinlucknow.in Adult Services for your CALL GIRLS in Lucknow</p>
 
-<p>Enjoy with Call Girls and<a href="https://www.callgirlsinlucknow.in/">&nbsp;Female ESCORT girls in Lucknow</a>.</p>
+<p>Enjoy with Call Girls and<a href="https://callgirlsinlucknow.in/">&nbsp;Female ESCORT girls in Lucknow</a>.</p>
 
 <p>Very much Independent Call Girl service and LUCKNOW CALL GIRLS according to Lucknow legal guidelines.</p>
 

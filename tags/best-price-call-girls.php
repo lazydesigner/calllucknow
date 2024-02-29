@@ -43,7 +43,7 @@ include '../profiles-card.php'; ?>
                     <h1 class="main-heading">Best price call girls</h1>
                 </div>
                 <div class="page-profile2">
-                    <h2 class="main-heading"><a href="https://www.callgirlsinlucknow.in/vip-call-girls-lucknow-escorts-girls-lucknow-escort-in-lucknow/" rel="bookmark">VIP-escorts-in-Lucknow</a></h2>
+                    <h2 class="main-heading"><a href="https://callgirlsinlucknow.in/vip-escorts/" rel="bookmark">VIP-escorts-in-Lucknow</a></h2>
 
                     <h2>The hottest VIP escorts in Lucknow</h2>
 

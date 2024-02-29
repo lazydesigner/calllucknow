@@ -7,7 +7,7 @@ include '../profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>Air-Hostess-Lucknow | Call Girls In Lucknow</title>
+    <title>Air Hostess Lucknow | Call Girls In Lucknow</title>
     <meta name="description" content="Job of air hostess is to serve politely to their clients and this unique specialty makes air hostess call girls most demandable.">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />

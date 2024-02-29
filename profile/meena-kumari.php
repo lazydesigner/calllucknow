@@ -113,7 +113,7 @@ include '../profiles-card.php'; ?>
 
 <p>Date of post- 06 May 2021</p>
 
-<p>To visit more escorts visit our&nbsp;<a href="https://callgirlsinlucknow.in/">homepage</a>&nbsp;or more&nbsp;<a href="https://www.callgirlsinlucknow.in/category/escort-profiles/">profiles</a>.</p>
+<p>To visit more escorts visit our&nbsp;<a href="https://callgirlsinlucknow.in/">homepage</a>&nbsp;or more&nbsp;<a href="https://callgirlsinlucknow.in/category/escort-profiles/">profiles</a>.</p>
 
 
             </div>

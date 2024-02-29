@@ -57,7 +57,7 @@ include './profiles-card.php'; ?>
             </div>
             <div class="page-profile" style="flex-direction: column;">
                 <a href="<?= get_url() ?>blog/red-light-areas-in-lucknow"><h2 class="second-heading">Top 10 Red Light Areas in Lucknow</h2></a>
-                <p>Lucknow, the city of Nawabs, is renowned for its culture and traditions. It is also widely known for its rich culinary culture and its exquisite heritage buildings. However, Lucknow is also renowned for its red-light areas. These areas are home to many sex workers and&nbsp;<a href="https://www.callgirlsinlucknow.in/">call girls in Lucknow</a>.</p>
+                <p>Lucknow, the city of Nawabs, is renowned for its culture and traditions. It is also widely known for its rich culinary culture and its exquisite heritage buildings. However, Lucknow is also renowned for its red-light areas. These areas are home to many sex workers and&nbsp;<a href="https://callgirlsinlucknow.in/">call girls in Lucknow</a>.</p>
             </div>
             <div class="page-profile" style="flex-direction: column;">
                 <a href="<?= get_url() ?>blog/indian-pornstar"><h2 class="second-heading">Top 20 Famous Indian Pornstars List 2024</h2></a>

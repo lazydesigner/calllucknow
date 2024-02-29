@@ -8,16 +8,16 @@ include '../profiles-card.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
     <title>pinky mishra call girl</title>
-    <meta name="description" content="meta description">
+    <meta name="description" content="Looking for a call girls service. call us now as we are the best call girls agency in lucknow">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="pinky mishra call girl" />
-    <meta property="og:description" content="meta description" />
-    <meta property="og:url" content="<?= get_url() ?>agonda-escorts/" />
+    <meta property="og:description" content="Looking for a call girls service. call us now as we are the best call girls agency in lucknow" />
+    <meta property="og:url" content="<?= get_url() ?>pinky-mishra-call-girl/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="pinky mishra call girl" />
-    <meta name="twitter:description" content="meta description" />
+    <meta name="twitter:description" content="Looking for a call girls service. call us now as we are the best call girls agency in lucknow" />
     <link rel="canonical" href="<?= get_url() ?>" />
     <?=$pages_css ?>
     <style>

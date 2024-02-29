@@ -7,17 +7,17 @@ include '../profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>Title of page</title>
-    <meta name="description" content="meta description">
+    <title>Escort girls in lucknow | callgirlsinlucknow.com</title>
+    <meta name="description" content="best escort girls in lucknow call us now to book your services">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Title of page" />
-    <meta property="og:description" content="meta description" />
+    <meta property="og:title" content="Escort girls in lucknow | callgirlsinlucknow.com" />
+    <meta property="og:description" content="best escort girls in lucknow call us now to book your services" />
     <meta property="og:url" content="<?= get_url() ?>escort-girls-in-lucknow/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Title of page" />
-    <meta name="twitter:description" content="meta description" />
+    <meta name="twitter:title" content="Escort girls in lucknow | callgirlsinlucknow.com" />
+    <meta name="twitter:description" content="best escort girls in lucknow call us now to book your services" />
     <link rel="canonical" href="<?= get_url() ?>" />
     <?=$pages_css ?>
     <style>

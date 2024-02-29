@@ -112,7 +112,7 @@ $half_star = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
                                 <small>12/1/2024</small>
                             </div>
                         </div>
-                        <a href="https://www.callgirlsinlucknow.in/escorts-near-novotel-hotel/">https://www.callgirlsinlucknow.in/escorts-near-novotel-hotel/</a>
+                        <a href="https://callgirlsinlucknow.in/escorts-near-novotel-hotel/">https://callgirlsinlucknow.in/escorts-near-novotel-hotel/</a>
                         <p>Awesome Service provided by raman escort at every reasonable price. They provided the same girl as they Send me on whatsapp and delivered it to my desired place at NOVOTEL HOTEL.Thanks for making my night memorable..</p>
                         <div class="review-reply">
                             <div class="review-row">
@@ -146,7 +146,7 @@ $half_star = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
                                 <small>31/12/2023</small>
                             </div>
                         </div>
-                        <a href="https://www.callgirlsinlucknow.in/call-girls-in-amausi-lucknow/">https://www.callgirlsinlucknow.in/call-girls-in-amausi-lucknow/</a>
+                        <a href="https://callgirlsinlucknow.in/call-girls-in-amausi-lucknow/">https://callgirlsinlucknow.in/call-girls-in-amausi-lucknow/</a>
                         <p>Try it once, you will never forget again. Recommended Service if you are looking for a sex partner.</p>
                         <div class="review-reply">
                             <div class="review-row">
@@ -180,7 +180,7 @@ $half_star = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
                                 <small>25/8/2023</small>
                             </div>
                         </div>
-                        <a href="https://www.callgirlsinlucknow.in/call-girls-in-transport-nagar-lucknow/">https://www.callgirlsinlucknow.in/call-girls-in-transport-nagar-lucknow/</a>
+                        <a href="https://callgirlsinlucknow.in/call-girls-in-transport-nagar-lucknow/">https://callgirlsinlucknow.in/call-girls-in-transport-nagar-lucknow/</a>
                         <p>Can't forget the last night with the girl, awesome awesome . Great service </p>
                         <div class="review-reply">
                             <div class="review-row">
@@ -250,7 +250,7 @@ $half_star = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
                                 <small>2/8/2023</small>
                             </div>
                         </div>
-                        <a href="https://www.callgirlsinlucknow.in/call-girls-in-amausi-lucknow/">https://www.callgirlsinlucknow.in/call-girls-in-amausi-lucknow/</a>
+                        <a href="https://callgirlsinlucknow.in/call-girls-in-amausi-lucknow/">https://callgirlsinlucknow.in/call-girls-in-amausi-lucknow/</a>
                         <p>
                             The girl was as per the description,she was very Awesome and Sexy.
                         </p>

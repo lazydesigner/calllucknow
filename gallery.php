@@ -7,18 +7,18 @@ include './profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>Title of page</title>
-    <meta name="description" content="meta description">
+    <title>call girls in lucknow - Gallery</title>
+    <meta name="description" content="Genuine call girls images for you in lucknow call now to book a call girls NOW ">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Title of page" />
-    <meta property="og:description" content="meta description" />
-    <meta property="og:url" content="<?= get_url() ?>" />
+    <meta property="og:title" content="call girls in lucknow - Gallery" />
+    <meta property="og:description" content="Genuine call girls images for you in lucknow call now to book a call girls NOW " />
+    <meta property="og:url" content="<?= get_url() ?>gallery/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Title of page" />
-    <meta name="twitter:description" content="meta description" />
-    <link rel="canonical" href="<?= get_url() ?>" />
+    <meta name="twitter:title" content="call girls in lucknow - Gallery" />
+    <meta name="twitter:description" content="Genuine call girls images for you in lucknow call now to book a call girls NOW " />
+    <link rel="canonical" href="<?= get_url() ?>gallery/" />
     <?= $pages_css ?>
 
     <style>

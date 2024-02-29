@@ -8,16 +8,16 @@ include '../profiles-card.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
     <title>lucknow Porn</title>
-    <meta name="description" content="meta description">
+    <meta name="description" content="Get premium call girls service in lucknow near gomti nagar, sushant golf city, adil nagar with genuin rates">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="lucknow-porn" />
-    <meta property="og:description" content="meta description" />
+    <meta property="og:description" content="Get premium call girls service in lucknow near gomti nagar, sushant golf city, adil nagar with genuin rates" />
     <meta property="og:url" content="<?= get_url() ?>lucknow-porn/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="lucknow-porn" />
-    <meta name="twitter:description" content="meta description" />
+    <meta name="twitter:description" content="Get premium call girls service in lucknow near gomti nagar, sushant golf city, adil nagar with genuin rates" />
     <link rel="canonical" href="<?= get_url() ?>" />
     <?=$pages_css ?>
     <style>

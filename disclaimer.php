@@ -30,7 +30,7 @@ include './profiles-card.php'; ?>
             <div class="main-content">
                 <h1 class="main-heading">Disclaimer</h1>
 
-                <p>This disclaimer (&ldquo;Disclaimer,&rdquo; &ldquo;Agreement&rdquo;) is an agreement between the website operator (&ldquo;Website Operator,&rdquo; &ldquo;us,&rdquo; &ldquo;we,&rdquo; or &ldquo;our&rdquo;) and you (&ldquo;User,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;). This Disclaimer sets forth the general guidelines, terms, and conditions of your use of the&nbsp;<a href="https://www.callgirlsinlucknow.in/" rel="noreferrer noopener" target="_blank">callgirlsinlucknow.in</a>&nbsp;the website and any of its products or services (collectively, &ldquo;Website&rdquo; or &ldquo;Services&rdquo;).</p>
+                <p>This disclaimer (&ldquo;Disclaimer,&rdquo; &ldquo;Agreement&rdquo;) is an agreement between the website operator (&ldquo;Website Operator,&rdquo; &ldquo;us,&rdquo; &ldquo;we,&rdquo; or &ldquo;our&rdquo;) and you (&ldquo;User,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;). This Disclaimer sets forth the general guidelines, terms, and conditions of your use of the&nbsp;<a href="https://callgirlsinlucknow.in/" rel="noreferrer noopener" target="_blank">callgirlsinlucknow.in</a>&nbsp;the website and any of its products or services (collectively, &ldquo;Website&rdquo; or &ldquo;Services&rdquo;).</p>
 
                 <p><img alt="" src="<?=$cdn_url ?>legar-department-callgirlsinlucknow.in_-1024x134.png" style="height:134px; width:1024px" /></p>
 
@@ -46,7 +46,7 @@ include './profiles-card.php'; ?>
 
                 <p>Website Operator guarantees the accuracy, reliability and completeness of the information and content on, distributed through or linked, downloaded or accessed from this Website. Information on the Website is for general information purposes only and is not intended to provide any type of professional advice. Please seek professional assistance should you require it.</p>
 
-                <p>We reserve the right to modify this Disclaimer relating to the Website, products, or services at any time, effective upon posting an updated version of this Disclaimer on the Website. When we do, we will post a notification on the main page of our website. Continued use of the website after any such changes shall constitute your consent to such changes. The policy was created with&nbsp;<a href="https://www.websitepolicies.com/blog/sample-disclaimer-template" rel="noreferrer noopener" target="_blank">WebsitePolicies</a>.</p>
+                <p>We reserve the right to modify this Disclaimer relating to the Website, products, or services at any time, effective upon posting an updated version of this Disclaimer on the Website. When we do, we will post a notification on the main page of our website. Continued use of the website after any such changes shall constitute your consent to such changes. The policy was created with&nbsp;<a href="https://websitepolicies.com/blog/sample-disclaimer-template" rel="noreferrer noopener" target="_blank">WebsitePolicies</a>.</p>
 
                 <h2 class="second-heading">Acceptance of this disclaimer</h2>
 

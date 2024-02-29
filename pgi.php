@@ -30,7 +30,7 @@ include './profiles-card.php'; ?>
             <div class="main-content">
                 <h1 class="main-heading">Call Girls in PGI Hospital Lucknow</h1>
 
-                <p>Hi everyone, Luckily, you have come to the focal point of high-class escorts and VIP<a href="https://www.callgirlsinlucknow.in/<?= $page_url ?>/">&nbsp;<strong>call girls in PGI Hospital&nbsp;</strong></a><strong>Lucknow</strong>.&nbsp; You can call us on the phone or WhatsApp to book high-profile escorts in Lucknow.&nbsp; Every single picture given here on this site is 100% real and trustworthy.&nbsp; On the occasion that you are looking for style model call girls, school call girls, and house spouse&nbsp;<strong><a href="https://www.callgirlsinlucknow.in/">call girls in Lucknow&nbsp;</a></strong>then our trusted organization is ideal for you.</p>
+                <p>Hi everyone, Luckily, you have come to the focal point of high-class escorts and VIP<a href="https://callgirlsinlucknow.in/<?= $page_url ?>/">&nbsp;<strong>call girls in PGI Hospital&nbsp;</strong></a><strong>Lucknow</strong>.&nbsp; You can call us on the phone or WhatsApp to book high-profile escorts in Lucknow.&nbsp; Every single picture given here on this site is 100% real and trustworthy.&nbsp; On the occasion that you are looking for style model call girls, school call girls, and house spouse&nbsp;<strong><a href="https://callgirlsinlucknow.in/">call girls in Lucknow&nbsp;</a></strong>then our trusted organization is ideal for you.</p>
                 <!-- PROFILES -->
 
                 <!-- PROFILES -->

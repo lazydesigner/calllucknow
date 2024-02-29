@@ -135,7 +135,7 @@ include '../profiles-card.php'; ?>
 
                 <p>Savagely slamming her asshole onto his giant kielbasa in reverse cowgirl with raw primal passions, she explodes in multiple howling, screaming orgasms. Back in doggie, he ardently drills his penis into her ass, driving her into a moaning, caterwauling, dick-drunk revelry. She then greedily sucks her ass juice from his prick until he fires a jet stream of jism into her mouth.</p>
 
-                <p>Book a Russian escort in Lucknow city today-&nbsp;<a href="https://www.callgirlsinlucknow.in/russian-escorts-lucknow/">Click here</a></p>
+                <p>Book a Russian escort in Lucknow city today-&nbsp;<a href="https://callgirlsinlucknow.in/russian-escorts-lucknow/">Click here</a></p>
 
             </div>
             <div class="side-content">

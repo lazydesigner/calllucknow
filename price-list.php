@@ -13,7 +13,7 @@ include './profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Price List | Callgirlsinlucknow.in" />
     <meta property="og:description" content="We are genuine escort provider and we have price list of each and every service. We try to provide estimated price only so please confirm during deal." />
-    <meta property="og:url" content="<?= get_url() ?>agonda-escorts/" />
+    <meta property="og:url" content="<?= get_url() ?>price-list/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Price List | Callgirlsinlucknow.in" />

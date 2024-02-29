@@ -7,16 +7,16 @@ include '../profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>Lucknow Escorts- Trusted Agency</title>
+    <title>Lucknow Escorts  Trusted Agency</title>
     <meta name="description" content="Lucknow Escorts- Trusted Agency If you find yourself in Lucknow and are looking for Lucknow escorts, then you have come to the right place.">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Lucknow Escorts- Trusted Agency" />
+    <meta property="og:title" content="Lucknow Escorts  Trusted Agency" />
     <meta property="og:description" content="Lucknow Escorts- Trusted Agency If you find yourself in Lucknow and are looking for Lucknow escorts, then you have come to the right place." />
     <meta property="og:url" content="<?= get_url() ?>area-of-escorts-girls-lucknow/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Lucknow Escorts- Trusted Agency" />
+    <meta name="twitter:title" content="Lucknow Escorts  Trusted Agency" />
     <meta name="twitter:description" content="Lucknow Escorts- Trusted Agency If you find yourself in Lucknow and are looking for Lucknow escorts, then you have come to the right place." />
     <link rel="canonical" href="<?= get_url() ?>area-of-escorts-girls-lucknow/" />
     <?=$pages_css ?>
@@ -40,7 +40,7 @@ include '../profiles-card.php'; ?>
             <div class="main-content">
             <h1 class="main-heading">Area of Escorts Girls Lucknow</h1>
 
-<p><strong><a href="https://www.callgirlsinlucknow.in/">Lucknow Escorts- Trusted Agency</a></strong></p>
+<p><strong><a href="https://callgirlsinlucknow.in/">Lucknow Escorts- Trusted Agency</a></strong></p>
 
 <p>If you find yourself in Lucknow and are looking for Lucknow escorts, then you have come to the right place. Our agency has some of the most beautiful busty girls from all over the world, so whatever you fancy, you can be sure that we have the perfect busty girl for you.</p>
 
@@ -52,7 +52,7 @@ include '../profiles-card.php'; ?>
 
 <p>&nbsp;Whatever brings you to Lucknow, whether it&rsquo;s business or pleasure, you can be sure that our Lucknow escorts are some of the best in the business, and our Lucknow escort agency can help you to find your perfect girl. You can book our beautiful busty girls, by the hour, by the day, by the weekend, or even by the whole week, depending on the length of your stay; whatever your needs, our top Lucknow escort agency is there to help.</p>
 
-<p>Contact us to get full detail of&nbsp;<a href="https://www.callgirlsinlucknow.in/area-of-escorts-girls-lucknow/">red light areas of Lucknow</a>.</p>
+<p>Contact us to get full detail of&nbsp;<a href="https://callgirlsinlucknow.in/area-of-escorts-girls-lucknow/">red light areas of Lucknow</a>.</p>
 
 <?=$profile ?>
             </div>

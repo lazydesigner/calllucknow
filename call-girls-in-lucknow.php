@@ -14,12 +14,12 @@ include './profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="350+ Call Girls in Lucknow at Cheap Rates | 7388211116" />
     <meta property="og:description" content="Are you looking for Geniun Call Girls in Lucknow? We are a classified site providing 250+ independent Lucknow call girls across the city." />
-    <meta property="og:url" content="<?= get_url() ?>call-girls-in-lucknow/" />
+    <meta property="og:url" content="<?= get_url() ?>lucknow-call-girls/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="350+ Call Girls in Lucknow at Cheap Rates | 7388211116" />
     <meta name="twitter:description" content="Are you looking for Geniun Call Girls in Lucknow? We are a classified site providing 250+ independent Lucknow call girls across the city." />
-    <link rel="canonical" href="<?= get_url() ?>call-girls-in-lucknow/" />
+    <link rel="canonical" href="<?= get_url() ?>lucknow-call-girls/" />
     <!-- <link rel="stylesheet" href="./assets/css/header.css" async>
     <link rel="stylesheet" href="./assets/css/home.css" async>
     <link rel="stylesheet" href="./assets/css/footer.css" defer> -->

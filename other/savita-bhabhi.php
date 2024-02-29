@@ -13,7 +13,7 @@ include '../profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Savita Bhabhi In Lucknow| Housewifes In LUcknow" />
     <meta property="og:description" content="Want to lick the pussy of an women like any bhabhi, you never had such experience of. So book one Savita Bhabhi for your pleasure." />
-    <meta property="og:url" content="<?= get_url() ?>agonda-escorts/" />
+    <meta property="og:url" content="<?= get_url() ?>savita-bhabhi/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Savita Bhabhi In Lucknow| Housewifes In LUcknow" />
