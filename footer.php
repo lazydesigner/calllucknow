@@ -12,8 +12,8 @@
     <div class="list-of-hotels-row">
         <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-near-clarks-avadh/">Clarks Avadh</a></div>
         <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-near-novotel-hotel/">Novotel Hotel</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-near-hyatt-regency-hotel">Hyatt Regency Hotel</a></div>
-        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-near-lebua-hotel">Lebua Hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-near-hyatt-regency-hotel/">Hyatt Regency Hotel</a></div>
+        <div class="list-of-hotels-col"><a href="<?= get_url() ?>escorts-near-lebua-hotel/">Lebua Hotel</a></div>
     </div>
     <!-- </div> -->
 </div>
