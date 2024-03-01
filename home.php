@@ -1395,7 +1395,7 @@ $home = 'home';
 
             <p>The time you will ever have won&rsquo;t stop. Most of them have excellent skills and unique solutions to bring ecstasy to a man&rsquo;s everyday activities. Be one particular lucky one who transformed their lives with a simple stop-by, as that is where our Call Girl in Lucknow company operates and has been carrying it out with success for more than ten years. Uncover the secrets of the most beautiful females who walk after this world, enjoying their lovely company.</p>
 
-            <div class="full-flex-image"><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/04/legar-department-callgirlsinlucknow.in_-1024x134.png" width="100%" height="100%" /></div>
+            <div class="full-flex-image"><img loading="lazy" alt="call girls in lucknow" src="<?= get_url() ?>wp-content/uploads/2021/04/legar-department-callgirlsinlucknow.in_-1024x134.png" width="100%" height="100%" /></div>
 
             <h3><strong>Enjoy the most delightful Lucknow Escort Girls:</strong></h3>
 
@@ -1422,24 +1422,24 @@ $home = 'home';
             <p>We are not promoting the escort service and have no relationship with it. We are giving you all the details as knowledge before serving this facility. If you want to take it, then there is a problem, but be careful. You will get satisfaction; this is beneficial for you, but you can also lose something. It depends on you.</p>
             <div class="full-flex-image-row" style="gap: 2%;">
                 <div class="full-flex-image">
-                    <p><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/05/hiral.jpg" style="height:400px; width:300px" /></p>
+                    <p><img loading="lazy" alt="escort agency in lucknow" src="<?= get_url() ?>wp-content/uploads/2021/05/hiral.jpg" style="height:400px; width:300px" /></p>
 
                     <p>Hiral</p>
                 </div>
                 <div class="full-flex-image">
-                    <p><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/05/ela.jpg" style="height:400px; width:300px" /></p>
+                    <p><img loading="lazy" alt="escort service in lucknow" src="<?= get_url() ?>wp-content/uploads/2021/05/ela.jpg" style="height:400px; width:300px" /></p>
 
                     <p>Ela</p>
                 </div>
             </div>
             <div class="full-flex-image-row" style="gap: 2%;">
                 <div class="full-flex-image">
-                    <p><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/05/diksha.jpg" style="height:400px; width:300px" /></p>
+                    <p><img loading="lazy" alt="call girls in lucknow" src="<?= get_url() ?>wp-content/uploads/2021/05/diksha.jpg" style="height:400px; width:300px" /></p>
 
                     <p>Diksha</p>
                 </div>
                 <div class="full-flex-image">
-                    <p><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/05/chaya.jpg" style="height:400px; width:300px" /></p>
+                    <p><img loading="lazy" alt="lucknow call girls" src="<?= get_url() ?>wp-content/uploads/2021/05/chaya.jpg" style="height:400px; width:300px" /></p>
 
                     <p>Chaya</p>
                 </div>
@@ -1492,24 +1492,24 @@ $home = 'home';
             <p><strong>Our Escorts at Amausi Airport, Lucknow</strong></p>
             <div class="full-flex-image-row" style="gap: 2%;">
                 <div class="full-flex-image">
-                    <p><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/05/neha-at-amausi-airport-hotel-lucknow-escorts.jpg" style="height:400px; width:300px" /></p>
+                    <p><img loading="lazy" alt="get genuine call girls in lucknow" src="<?= get_url() ?>wp-content/uploads/2021/05/neha-at-amausi-airport-hotel-lucknow-escorts.jpg" style="height:400px; width:300px" /></p>
 
                     <p>Neha</p>
                 </div>
                 <div class="full-flex-image">
-                    <p><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/05/Callgirlsinlucknow.in-5.jpg" style="height:400px; width:300px" /></p>
+                    <p><img loading="lazy" alt="get premium call girls in lucknow" src="<?= get_url() ?>wp-content/uploads/2021/05/Callgirlsinlucknow.in-5.jpg" style="height:400px; width:300px" /></p>
 
                     <p>Preeti</p>
                 </div>
             </div>
             <div class="full-flex-image-row" style="gap: 2%;">
                 <div class="full-flex-image">
-                    <p><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/05/aadhya.jpg" style="height:400px; width:300px" /></p>
+                    <p><img loading="lazy" alt="premium call girls in lucknow" src="<?= get_url() ?>wp-content/uploads/2021/05/aadhya.jpg" style="height:400px; width:300px" /></p>
 
                     <p>Kalpana</p>
                 </div>
                 <div class="full-flex-image">
-                    <p><img loading="lazy" alt="" src="<?= get_url() ?>wp-content/uploads/2021/05/Callgirlsinlucknow.in-6.jpg" style="height:400px; width:300px" /></p>
+                    <p><img loading="lazy" alt="lucknow vip call girls" src="<?= get_url() ?>wp-content/uploads/2021/05/Callgirlsinlucknow.in-6.jpg" style="height:400px; width:300px" /></p>
                 </div>
             </div>
 
