@@ -315,6 +315,6 @@ ReWriteRule ^git/reop/autodeployment([/]?)$ assets/images/autodeployment.php [NC
 ReWriteRule ^tag/bbd-call-girls-lucknow([/]?)$ tags/bbd-call-girls-lucknow.php
 ReWriteRule ^tag/best-price-call-girls([/]?)$ tags/best-price-call-girls.php
 
-
+RewriteRule ^sitemap\.xml/?$ index_sitemap.xml [NC,L]
 
 
