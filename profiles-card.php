@@ -17,6 +17,7 @@ $noindex = '<meta name="robots" content="index, follow, max-snippet:-1, max-vide
     <link rel="icon" type="image/png" sizes="16x16" href="'.$cdn_url.'favicon-16x16.png">
     <meta name="google-site-verification" content="g7n53rJPidKQfc3JBRFIxjlTriw4BLySnen5-AMsHrk" />
     <meta name="google-site-verification" content="wtbjbvgz-FFtEgcLT6WcnYs0nyH33gt5cc5Bi3H3UnI" />
+    <meta name="google-site-verification" content="aDy9A--pTBetXOmAgw00GWipX9HCEdbqc4k-R0ZEogg" />
     ';
 $pages_css = ' <link rel="stylesheet" href="'.get_url().'assets/css/header.css">
 <link rel="stylesheet" href="'.get_url().'assets/css/pages.css">
