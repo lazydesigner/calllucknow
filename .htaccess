@@ -202,7 +202,7 @@ RewriteRule ^category/men-looking-women/?$ https://callgirlsinlucknow.in/gallery
 RewriteRule ^category/escort-profiles/?$ https://callgirlsinlucknow.in/profiles/ [R=301,L]
 RewriteRule ^category/udaipur-escorts/?$ https://udaipur.callgirlsinlucknow.in/ [R=301,L]
 RewriteRule ^category/women-looking-men/?$ https://callgirlsinlucknow.in/gallery/ [R=301,L]
-RewriteRule ^lucknow-call-girls/?$ https://callgirlsinlucknow.in/call-girls-in-gomti-nagar/ [R=301,L]
+#RewriteRule ^lucknow-call-girls/?$ https://callgirlsinlucknow.in/call-girls-in-gomti-nagar/ [R=301,L]
 
 
 
@@ -245,7 +245,7 @@ ReWriteRule ^escorts-near-ramada-hotel([/]?)$ hotels/escorts-near-ramada-hotel.p
 ReWriteRule ^escorts-near-comfort-inn([/]?)$ hotels/escorts-near-comfort-inn.php [NC,L]
 ReWriteRule ^lucknow-call-girls([/]?)$ call-girls-in-lucknow.php [NC,L]
 
-ReWriteRule ^call-girls-in-gomti-nagar([/]?)$ pages/call-girls-in-gomti-nagar.php [NC,L]
+#ReWriteRule ^call-girls-in-gomti-nagar([/]?)$ pages/call-girls-in-gomti-nagar.php [NC,L]
 ReWriteRule ^call-girls-in-([0-9A-Za-z\-]+)([/]?)$ pages/index_.php?area=$1 [NC,L]
 
 ReWriteRule ^profiles([/]?)$ profile/profile_index.php [NC,L]
