@@ -153,16 +153,20 @@ include '../profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>Call Girls In <?= $area_name23 ?>Lucknow | 7388211116</title>
+
+    <?php if($_GET['area'] == 'gomti-nagar'){?><title>Call Girls In Lucknow | 7388211116 | Call Girls In Gomti Nagar</title><?}else{?><title>Call Girls In <?= $area_name23 ?>Lucknow | 7388211116</title><?php } ?>
+
     <meta name="description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts.">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Call Girls In <?= $area_name23 ?>Lucknow | 7388211116" />
+    <?php if($_GET['area'] == 'gomti-nagar'){?> <meta property="og:title" content="Call Girls In Lucknow | 7388211116 | Call Girls In Gomti Nagar" /><?}else{?><meta property="og:title" content="Call Girls In <?= $area_name23 ?>Lucknow | 7388211116" /><?php } ?>
+    
     <meta property="og:description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts." />
     <meta property="og:url" content="<?= get_url() . $page_url ?>/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Call Girls In <?= $area_name23 ?>Lucknow | 7388211116" />
+    <?php if($_GET['area'] == 'gomti-nagar'){?><meta name="twitter:title" content="Call Girls In Lucknow | 7388211116 | Call Girls In Gomti Nagar" /><?}else{?><meta name="twitter:title" content="Call Girls In <?= $area_name23 ?>Lucknow | 7388211116" /><?php } ?>
+    
     <meta name="twitter:description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts." />
     <link rel="canonical" href="<?= get_url() . $page_url ?>/" />
     <?= $pages_css ?>
