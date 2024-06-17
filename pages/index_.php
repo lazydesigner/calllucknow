@@ -154,20 +154,27 @@ include '../profiles-card.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
 
-    <?php if($_GET['area'] == 'gomti-nagar'){?><title>Call Girls In Lucknow | 7388211116 | Call Girls In Gomti Nagar</title><?php }else{ ?><title>Call Girls In <?= $area_name23 ?>Lucknow | 7388211116</title><?php } ?>
-
-    <meta name="description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts.">
+    <?php if($_GET['area'] == 'gomti-nagar'){?><title>Call Girls In Lucknow | Call Girls In Gomti Nagar | 7388211116</title><?php }else{ ?><title>Call Girls In <?= $area_name23 ?>Lucknow | 7388211116</title><?php } ?>
+    <?php if($_GET['area'] == 'gomti-nagar'){?><meta name="description" content="We are providing a Top Class Call Girls in gomti nagar Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile call girls in Lucknow"><?php }else{ ?>
+    <meta name="description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts."><?php } ?>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <?php if($_GET['area'] == 'gomti-nagar'){?> <meta property="og:title" content="Call Girls In Lucknow | 7388211116 | Call Girls In Gomti Nagar" /><?php }else{?><meta property="og:title" content="Call Girls In <?= $area_name23 ?>Lucknow | 7388211116" /><?php } ?>
+    <?php if($_GET['area'] == 'gomti-nagar'){?> <meta property="og:title" content="Call Girls In Lucknow | Call Girls In Gomti Nagar | 7388211116" /><?php }else{?><meta property="og:title" content="Call Girls In <?= $area_name23 ?>Lucknow | 7388211116" /><?php } ?>
     
-    <meta property="og:description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts." />
+    <?php if($_GET['area'] == 'gomti-nagar'){?><meta property="og:description" content="We are providing a Top Class Call Girls in gomti nagar Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile call girls in Lucknow" /><?php }else{ ?>
+        <meta property="og:description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts." /><?php } ?>
+    
+
     <meta property="og:url" content="<?= get_url() . $page_url ?>/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <?php if($_GET['area'] == 'gomti-nagar'){?><meta name="twitter:title" content="Call Girls In Lucknow | 7388211116 | Call Girls In Gomti Nagar" /><?php }else{?><meta name="twitter:title" content="Call Girls In <?= $area_name23 ?>Lucknow | 7388211116" /><?php } ?>
+    <?php if($_GET['area'] == 'gomti-nagar'){?><meta name="twitter:title" content="Call Girls In Lucknow | Call Girls In Gomti Nagar | 7388211116" /><?php }else{?><meta name="twitter:title" content="Call Girls In <?= $area_name23 ?>Lucknow | 7388211116" /><?php } ?>
     
-    <meta name="twitter:description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts." />
+    
+
+    <?php if($_GET['area'] == 'gomti-nagar'){?><meta name="twitter:description" content="We are providing a Top Class Call Girls in gomti nagar Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile call girls in Lucknow." /><?php }else{ ?>
+        <meta name="twitter:description" content="We are providing a Top Class Call Girls in <?= $area_name23 ?>Lucknow. Call 7388211116. You can bring us on phone or WhatsApp for booking high profile escorts." /><?php } ?>
+
     <link rel="canonical" href="<?= get_url() . $page_url ?>/" />
     <?= $pages_css ?>
 </head>
