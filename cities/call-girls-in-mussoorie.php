@@ -1,5 +1,7 @@
 <?php include '../routes.php';
-include '../profiles-card.php'; $ima_ge = 'banner/mussoorie';?>
+include '../profiles-card.php'; $ima_ge = 'banner/mussoorie';
+$phone_number = '+918447099797';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,16 +10,16 @@ include '../profiles-card.php'; $ima_ge = 'banner/mussoorie';?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
     <title>Call Girls In Mussoorie Near Mall Road @2500</title>
-    <meta name="description" content="Are you looking for Mussoorie escorts? Call us at 0000000000 to get call girls in mussoorie detials on your phone and book without any advance.">
+    <meta name="description" content="Are you looking for Mussoorie escorts? Call us at 8447099797 to get call girls in mussoorie detials on your phone and book without any advance.">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Call Girls In Mussoorie Near Mall Road @2500" />
-    <meta property="og:description" content="Are you looking for Mussoorie escorts? Call us at 0000000000 to get call girls in mussoorie detials on your phone and book without any advance." />
+    <meta property="og:description" content="Are you looking for Mussoorie escorts? Call us at 8447099797 to get call girls in mussoorie detials on your phone and book without any advance." />
     <meta property="og:url" content="<?= get_url() ?>call-girls-in-mussoorie/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Call Girls In Mussoorie Near Mall Road @2500" />
-    <meta name="twitter:description" content="Are you looking for Mussoorie escorts? Call us at 0000000000 to get call girls in mussoorie detials on your phone and book without any advance." />
+    <meta name="twitter:description" content="Are you looking for Mussoorie escorts? Call us at 8447099797 to get call girls in mussoorie detials on your phone and book without any advance." />
     <link rel="canonical" href="<?= get_url() ?>call-girls-in-mussoorie/" />
     <?= $pages_css ?>
     <style>
